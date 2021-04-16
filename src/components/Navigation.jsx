@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import { NavLink } from 'react-router-dom';
 
 const Nav = styled.nav`
   align-items: center;
@@ -23,6 +24,7 @@ const Nav = styled.nav`
 
 const NavOutliner = styled.span`
     background-color: ${(props) => props.theme.colors.violet};
+    bottom: 0;
     height: 0.2rem;
     left: 1.6rem;
     margin-bottom: -0.2rem;
@@ -30,16 +32,19 @@ const NavOutliner = styled.span`
     width: 3rem;
 `;
 
-const NavLink = styled.a`
+const LinkItem = styled(NavLink)`
   color: ${(props) => props.theme.colors.light_grey};
   margin-right: 3rem;
   font-weight: 600;
+  &.active {
+    color: ${(props) => props.theme.colors.white};  
+  }
 `;
 
 const Navigation = () => (
   <Nav>
-    <NavLink>Dashboard</NavLink>
-    <NavLink>Assets</NavLink>
+    <LinkItem exact to="/" activeClassName="active">Dashboard</LinkItem>
+    <LinkItem exact to="/assets" activeClassName="active">Assets</LinkItem>
     <NavOutliner />
   </Nav>
 );

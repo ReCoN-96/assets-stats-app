@@ -15,6 +15,9 @@ const GlobalStyle = createGlobalStyle`
   button {
     cursor: pointer;
   }
+  a {
+    text-decoration: inherit;
+  }
 `;
 
 export default GlobalStyle;
