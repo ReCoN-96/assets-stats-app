@@ -16,16 +16,17 @@ const Legend = styled.div`
   width: 2.6rem;
   border-radius: 3rem;
   margin: 0.7rem 0 0 0;
+  opacity: ${(props) => 0.05 + props.part * 0.1};
 `;
 const Name = styled.span`
   color: ${(props) => props.theme.colors.grey};
-
 `;
 const Variation = styled.span`
   color: ${(props) => props.theme.colors.white};
   font-weight: 600;
   padding-top: 0.4rem;
 `;
+
 const DataWrapper = styled.div`
   display: flex;
   flex-direction: column;
@@ -33,7 +34,7 @@ const DataWrapper = styled.div`
 `;
 const AssetsDistributionItem = ({ name, id, part }) => (
   <Container>
-    <Legend />
+    <Legend part={part} />
     <DataWrapper>
       <Name>
         {id}
