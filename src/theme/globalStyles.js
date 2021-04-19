@@ -18,6 +18,9 @@ const GlobalStyle = createGlobalStyle`
   a {
     text-decoration: inherit;
   }
+  li {
+    list-style: none;
+  }
 `;
 
 export default GlobalStyle;
