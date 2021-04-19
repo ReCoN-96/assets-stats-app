@@ -13,7 +13,7 @@ const AppRouter = () => (
   <Router>
     <Header />
     <Switch>
-      <Route path="/">
+      <Route exact path="/">
         <DashboardPage />
       </Route>
       <Route path="/assets">
