@@ -1,1462 +1,1827 @@
 [
   {
-    "date": "2021-01-01T00:00:00.000Z",
-    "amount": 9712
+      "date": "2021-01-01T00:00:00.000Z",
+      "amount": 9712,
+      "accountBalanceToday": 9712
   },
   {
-    "date": "2021-01-02T00:00:00.000Z",
-    "amount": 2629
+      "date": "2021-01-02T00:00:00.000Z",
+      "amount": 2629,
+      "accountBalanceToday": 12341
   },
   {
-    "date": "2021-01-03T00:00:00.000Z",
-    "amount": 7836
+      "date": "2021-01-03T00:00:00.000Z",
+      "amount": 7836,
+      "accountBalanceToday": 20177
   },
   {
-    "date": "2021-01-04T00:00:00.000Z",
-    "amount": 4396
+      "date": "2021-01-04T00:00:00.000Z",
+      "amount": 4396,
+      "accountBalanceToday": 24573
   },
   {
-    "date": "2021-01-05T00:00:00.000Z",
-    "amount": 6586
+      "date": "2021-01-05T00:00:00.000Z",
+      "amount": 6586,
+      "accountBalanceToday": 31159
   },
   {
-    "date": "2021-01-06T00:00:00.000Z",
-    "amount": 1946
+      "date": "2021-01-06T00:00:00.000Z",
+      "amount": 1946,
+      "accountBalanceToday": 33105
   },
   {
-    "date": "2021-01-07T00:00:00.000Z",
-    "amount": 5690
+      "date": "2021-01-07T00:00:00.000Z",
+      "amount": 5690,
+      "accountBalanceToday": 38795
   },
   {
-    "date": "2021-01-08T00:00:00.000Z",
-    "amount": 1732
+      "date": "2021-01-08T00:00:00.000Z",
+      "amount": 1732,
+      "accountBalanceToday": 40527
   },
   {
-    "date": "2021-01-09T00:00:00.000Z",
-    "amount": 2538
+      "date": "2021-01-09T00:00:00.000Z",
+      "amount": 2538,
+      "accountBalanceToday": 43065
   },
   {
-    "date": "2021-01-10T00:00:00.000Z",
-    "amount": 9907
+      "date": "2021-01-10T00:00:00.000Z",
+      "amount": 9907,
+      "accountBalanceToday": 52972
   },
   {
-    "date": "2021-01-11T00:00:00.000Z",
-    "amount": 300
+      "date": "2021-01-11T00:00:00.000Z",
+      "amount": 300,
+      "accountBalanceToday": 53272
   },
   {
-    "date": "2021-01-12T00:00:00.000Z",
-    "amount": 5797
+      "date": "2021-01-12T00:00:00.000Z",
+      "amount": 5797,
+      "accountBalanceToday": 59069
   },
   {
-    "date": "2021-01-13T00:00:00.000Z",
-    "amount": 4101
+      "date": "2021-01-13T00:00:00.000Z",
+      "amount": 4101,
+      "accountBalanceToday": 63170
   },
   {
-    "date": "2021-01-14T00:00:00.000Z",
-    "amount": 4717
+      "date": "2021-01-14T00:00:00.000Z",
+      "amount": 4717,
+      "accountBalanceToday": 67887
   },
   {
-    "date": "2021-01-15T00:00:00.000Z",
-    "amount": 521
+      "date": "2021-01-15T00:00:00.000Z",
+      "amount": 521,
+      "accountBalanceToday": 68408
   },
   {
-    "date": "2021-01-16T00:00:00.000Z",
-    "amount": 8009
+      "date": "2021-01-16T00:00:00.000Z",
+      "amount": 8009,
+      "accountBalanceToday": 76417
   },
   {
-    "date": "2021-01-17T00:00:00.000Z",
-    "amount": 5587
+      "date": "2021-01-17T00:00:00.000Z",
+      "amount": 5587,
+      "accountBalanceToday": 82004
   },
   {
-    "date": "2021-01-18T00:00:00.000Z",
-    "amount": 857
+      "date": "2021-01-18T00:00:00.000Z",
+      "amount": 857,
+      "accountBalanceToday": 82861
   },
   {
-    "date": "2021-01-19T00:00:00.000Z",
-    "amount": 3670
+      "date": "2021-01-19T00:00:00.000Z",
+      "amount": 3670,
+      "accountBalanceToday": 86531
   },
   {
-    "date": "2021-01-20T00:00:00.000Z",
-    "amount": 1991
+      "date": "2021-01-20T00:00:00.000Z",
+      "amount": 1991,
+      "accountBalanceToday": 88522
   },
   {
-    "date": "2021-01-21T00:00:00.000Z",
-    "amount": 5221
+      "date": "2021-01-21T00:00:00.000Z",
+      "amount": 5221,
+      "accountBalanceToday": 93743
   },
   {
-    "date": "2021-01-22T00:00:00.000Z",
-    "amount": 1192
+      "date": "2021-01-22T00:00:00.000Z",
+      "amount": 1192,
+      "accountBalanceToday": 94935
   },
   {
-    "date": "2021-01-23T00:00:00.000Z",
-    "amount": 9313
+      "date": "2021-01-23T00:00:00.000Z",
+      "amount": 9313,
+      "accountBalanceToday": 104248
   },
   {
-    "date": "2021-01-24T00:00:00.000Z",
-    "amount": 8846
+      "date": "2021-01-24T00:00:00.000Z",
+      "amount": 8846,
+      "accountBalanceToday": 113094
   },
   {
-    "date": "2021-01-25T00:00:00.000Z",
-    "amount": 153
+      "date": "2021-01-25T00:00:00.000Z",
+      "amount": 153,
+      "accountBalanceToday": 113247
   },
   {
-    "date": "2021-01-26T00:00:00.000Z",
-    "amount": 4310
+      "date": "2021-01-26T00:00:00.000Z",
+      "amount": 4310,
+      "accountBalanceToday": 117557
   },
   {
-    "date": "2021-01-27T00:00:00.000Z",
-    "amount": 3415
+      "date": "2021-01-27T00:00:00.000Z",
+      "amount": 3415,
+      "accountBalanceToday": 120972
   },
   {
-    "date": "2021-01-28T00:00:00.000Z",
-    "amount": 6612
+      "date": "2021-01-28T00:00:00.000Z",
+      "amount": 6612,
+      "accountBalanceToday": 127584
   },
   {
-    "date": "2021-01-29T00:00:00.000Z",
-    "amount": 2150
+      "date": "2021-01-29T00:00:00.000Z",
+      "amount": 2150,
+      "accountBalanceToday": 129734
   },
   {
-    "date": "2021-01-30T00:00:00.000Z",
-    "amount": 1366
+      "date": "2021-01-30T00:00:00.000Z",
+      "amount": 1366,
+      "accountBalanceToday": 131100
   },
   {
-    "date": "2021-01-31T00:00:00.000Z",
-    "amount": 6204
+      "date": "2021-01-31T00:00:00.000Z",
+      "amount": 6204,
+      "accountBalanceToday": 137304
   },
   {
-    "date": "2021-02-01T00:00:00.000Z",
-    "amount": 1763
+      "date": "2021-02-01T00:00:00.000Z",
+      "amount": 1763,
+      "accountBalanceToday": 139067
   },
   {
-    "date": "2021-02-02T00:00:00.000Z",
-    "amount": 6794
+      "date": "2021-02-02T00:00:00.000Z",
+      "amount": 6794,
+      "accountBalanceToday": 145861
   },
   {
-    "date": "2021-02-03T00:00:00.000Z",
-    "amount": 3676
+      "date": "2021-02-03T00:00:00.000Z",
+      "amount": 3676,
+      "accountBalanceToday": 149537
   },
   {
-    "date": "2021-02-04T00:00:00.000Z",
-    "amount": 2477
+      "date": "2021-02-04T00:00:00.000Z",
+      "amount": 2477,
+      "accountBalanceToday": 152014
   },
   {
-    "date": "2021-02-05T00:00:00.000Z",
-    "amount": 8250
+      "date": "2021-02-05T00:00:00.000Z",
+      "amount": 8250,
+      "accountBalanceToday": 160264
   },
   {
-    "date": "2021-02-06T00:00:00.000Z",
-    "amount": 7949
+      "date": "2021-02-06T00:00:00.000Z",
+      "amount": 7949,
+      "accountBalanceToday": 168213
   },
   {
-    "date": "2021-02-07T00:00:00.000Z",
-    "amount": 7770
+      "date": "2021-02-07T00:00:00.000Z",
+      "amount": 7770,
+      "accountBalanceToday": 175983
   },
   {
-    "date": "2021-02-08T00:00:00.000Z",
-    "amount": 7983
+      "date": "2021-02-08T00:00:00.000Z",
+      "amount": 7983,
+      "accountBalanceToday": 183966
   },
   {
-    "date": "2021-02-09T00:00:00.000Z",
-    "amount": 928
+      "date": "2021-02-09T00:00:00.000Z",
+      "amount": 928,
+      "accountBalanceToday": 184894
   },
   {
-    "date": "2021-02-10T00:00:00.000Z",
-    "amount": 105
+      "date": "2021-02-10T00:00:00.000Z",
+      "amount": 105,
+      "accountBalanceToday": 184999
   },
   {
-    "date": "2021-02-11T00:00:00.000Z",
-    "amount": 2847
+      "date": "2021-02-11T00:00:00.000Z",
+      "amount": 2847,
+      "accountBalanceToday": 187846
   },
   {
-    "date": "2021-02-12T00:00:00.000Z",
-    "amount": 2880
+      "date": "2021-02-12T00:00:00.000Z",
+      "amount": 2880,
+      "accountBalanceToday": 190726
   },
   {
-    "date": "2021-02-13T00:00:00.000Z",
-    "amount": 6655
+      "date": "2021-02-13T00:00:00.000Z",
+      "amount": 6655,
+      "accountBalanceToday": 197381
   },
   {
-    "date": "2021-02-14T00:00:00.000Z",
-    "amount": 1192
+      "date": "2021-02-14T00:00:00.000Z",
+      "amount": 1192,
+      "accountBalanceToday": 198573
   },
   {
-    "date": "2021-02-15T00:00:00.000Z",
-    "amount": 1492
+      "date": "2021-02-15T00:00:00.000Z",
+      "amount": 1492,
+      "accountBalanceToday": 200065
   },
   {
-    "date": "2021-02-16T00:00:00.000Z",
-    "amount": 1245
+      "date": "2021-02-16T00:00:00.000Z",
+      "amount": 1245,
+      "accountBalanceToday": 201310
   },
   {
-    "date": "2021-02-17T00:00:00.000Z",
-    "amount": 7158
+      "date": "2021-02-17T00:00:00.000Z",
+      "amount": 7158,
+      "accountBalanceToday": 208468
   },
   {
-    "date": "2021-02-18T00:00:00.000Z",
-    "amount": 3113
+      "date": "2021-02-18T00:00:00.000Z",
+      "amount": 3113,
+      "accountBalanceToday": 211581
   },
   {
-    "date": "2021-02-19T00:00:00.000Z",
-    "amount": 5947
+      "date": "2021-02-19T00:00:00.000Z",
+      "amount": 5947,
+      "accountBalanceToday": 217528
   },
   {
-    "date": "2021-02-20T00:00:00.000Z",
-    "amount": 7327
+      "date": "2021-02-20T00:00:00.000Z",
+      "amount": 7327,
+      "accountBalanceToday": 224855
   },
   {
-    "date": "2021-02-21T00:00:00.000Z",
-    "amount": 1576
+      "date": "2021-02-21T00:00:00.000Z",
+      "amount": 1576,
+      "accountBalanceToday": 226431
   },
   {
-    "date": "2021-02-22T00:00:00.000Z",
-    "amount": 7527
+      "date": "2021-02-22T00:00:00.000Z",
+      "amount": 7527,
+      "accountBalanceToday": 233958
   },
   {
-    "date": "2021-02-23T00:00:00.000Z",
-    "amount": 8149
+      "date": "2021-02-23T00:00:00.000Z",
+      "amount": 8149,
+      "accountBalanceToday": 242107
   },
   {
-    "date": "2021-02-24T00:00:00.000Z",
-    "amount": 4251
+      "date": "2021-02-24T00:00:00.000Z",
+      "amount": 4251,
+      "accountBalanceToday": 246358
   },
   {
-    "date": "2021-02-25T00:00:00.000Z",
-    "amount": 2667
+      "date": "2021-02-25T00:00:00.000Z",
+      "amount": 2667,
+      "accountBalanceToday": 249025
   },
   {
-    "date": "2021-02-26T00:00:00.000Z",
-    "amount": 3328
+      "date": "2021-02-26T00:00:00.000Z",
+      "amount": 3328,
+      "accountBalanceToday": 252353
   },
   {
-    "date": "2021-02-27T00:00:00.000Z",
-    "amount": 1989
+      "date": "2021-02-27T00:00:00.000Z",
+      "amount": 1989,
+      "accountBalanceToday": 254342
   },
   {
-    "date": "2021-02-28T00:00:00.000Z",
-    "amount": 1843
+      "date": "2021-02-28T00:00:00.000Z",
+      "amount": 1843,
+      "accountBalanceToday": 256185
   },
   {
-    "date": "2021-03-01T00:00:00.000Z",
-    "amount": 6076
+      "date": "2021-03-01T00:00:00.000Z",
+      "amount": 6076,
+      "accountBalanceToday": 262261
   },
   {
-    "date": "2021-03-02T00:00:00.000Z",
-    "amount": 5020
+      "date": "2021-03-02T00:00:00.000Z",
+      "amount": 5020,
+      "accountBalanceToday": 267281
   },
   {
-    "date": "2021-03-03T00:00:00.000Z",
-    "amount": 516
+      "date": "2021-03-03T00:00:00.000Z",
+      "amount": 516,
+      "accountBalanceToday": 267797
   },
   {
-    "date": "2021-03-04T00:00:00.000Z",
-    "amount": 8434
+      "date": "2021-03-04T00:00:00.000Z",
+      "amount": 8434,
+      "accountBalanceToday": 276231
   },
   {
-    "date": "2021-03-05T00:00:00.000Z",
-    "amount": 1269
+      "date": "2021-03-05T00:00:00.000Z",
+      "amount": 1269,
+      "accountBalanceToday": 277500
   },
   {
-    "date": "2021-03-06T00:00:00.000Z",
-    "amount": 1725
+      "date": "2021-03-06T00:00:00.000Z",
+      "amount": 1725,
+      "accountBalanceToday": 279225
   },
   {
-    "date": "2021-03-07T00:00:00.000Z",
-    "amount": 1334
+      "date": "2021-03-07T00:00:00.000Z",
+      "amount": 1334,
+      "accountBalanceToday": 280559
   },
   {
-    "date": "2021-03-08T00:00:00.000Z",
-    "amount": 5719
+      "date": "2021-03-08T00:00:00.000Z",
+      "amount": 5719,
+      "accountBalanceToday": 286278
   },
   {
-    "date": "2021-03-09T00:00:00.000Z",
-    "amount": 5030
+      "date": "2021-03-09T00:00:00.000Z",
+      "amount": 5030,
+      "accountBalanceToday": 291308
   },
   {
-    "date": "2021-03-10T00:00:00.000Z",
-    "amount": 614
+      "date": "2021-03-10T00:00:00.000Z",
+      "amount": 614,
+      "accountBalanceToday": 291922
   },
   {
-    "date": "2021-03-11T00:00:00.000Z",
-    "amount": 5761
+      "date": "2021-03-11T00:00:00.000Z",
+      "amount": 5761,
+      "accountBalanceToday": 297683
   },
   {
-    "date": "2021-03-12T00:00:00.000Z",
-    "amount": 1761
+      "date": "2021-03-12T00:00:00.000Z",
+      "amount": 1761,
+      "accountBalanceToday": 299444
   },
   {
-    "date": "2021-03-13T00:00:00.000Z",
-    "amount": 1423
+      "date": "2021-03-13T00:00:00.000Z",
+      "amount": 1423,
+      "accountBalanceToday": 300867
   },
   {
-    "date": "2021-03-14T00:00:00.000Z",
-    "amount": 5128
+      "date": "2021-03-14T00:00:00.000Z",
+      "amount": 5128,
+      "accountBalanceToday": 305995
   },
   {
-    "date": "2021-03-15T00:00:00.000Z",
-    "amount": 8760
+      "date": "2021-03-15T00:00:00.000Z",
+      "amount": 8760,
+      "accountBalanceToday": 314755
   },
   {
-    "date": "2021-03-16T00:00:00.000Z",
-    "amount": 8931
+      "date": "2021-03-16T00:00:00.000Z",
+      "amount": 8931,
+      "accountBalanceToday": 323686
   },
   {
-    "date": "2021-03-17T00:00:00.000Z",
-    "amount": 7926
+      "date": "2021-03-17T00:00:00.000Z",
+      "amount": 7926,
+      "accountBalanceToday": 331612
   },
   {
-    "date": "2021-03-18T00:00:00.000Z",
-    "amount": 6116
+      "date": "2021-03-18T00:00:00.000Z",
+      "amount": 6116,
+      "accountBalanceToday": 337728
   },
   {
-    "date": "2021-03-19T00:00:00.000Z",
-    "amount": 8794
+      "date": "2021-03-19T00:00:00.000Z",
+      "amount": 8794,
+      "accountBalanceToday": 346522
   },
   {
-    "date": "2021-03-20T00:00:00.000Z",
-    "amount": 2697
+      "date": "2021-03-20T00:00:00.000Z",
+      "amount": 2697,
+      "accountBalanceToday": 349219
   },
   {
-    "date": "2021-03-21T00:00:00.000Z",
-    "amount": 1150
+      "date": "2021-03-21T00:00:00.000Z",
+      "amount": 1150,
+      "accountBalanceToday": 350369
   },
   {
-    "date": "2021-03-22T00:00:00.000Z",
-    "amount": 6687
+      "date": "2021-03-22T00:00:00.000Z",
+      "amount": 6687,
+      "accountBalanceToday": 357056
   },
   {
-    "date": "2021-03-23T00:00:00.000Z",
-    "amount": 2026
+      "date": "2021-03-23T00:00:00.000Z",
+      "amount": 2026,
+      "accountBalanceToday": 359082
   },
   {
-    "date": "2021-03-24T00:00:00.000Z",
-    "amount": 1465
+      "date": "2021-03-24T00:00:00.000Z",
+      "amount": 1465,
+      "accountBalanceToday": 360547
   },
   {
-    "date": "2021-03-25T00:00:00.000Z",
-    "amount": 3779
+      "date": "2021-03-25T00:00:00.000Z",
+      "amount": 3779,
+      "accountBalanceToday": 364326
   },
   {
-    "date": "2021-03-26T00:00:00.000Z",
-    "amount": 8589
+      "date": "2021-03-26T00:00:00.000Z",
+      "amount": 8589,
+      "accountBalanceToday": 372915
   },
   {
-    "date": "2021-03-27T00:00:00.000Z",
-    "amount": 9653
+      "date": "2021-03-27T00:00:00.000Z",
+      "amount": 9653,
+      "accountBalanceToday": 382568
   },
   {
-    "date": "2021-03-28T00:00:00.000Z",
-    "amount": 8690
+      "date": "2021-03-28T00:00:00.000Z",
+      "amount": 8690,
+      "accountBalanceToday": 391258
   },
   {
-    "date": "2021-03-29T00:00:00.000Z",
-    "amount": 6582
+      "date": "2021-03-29T00:00:00.000Z",
+      "amount": 6582,
+      "accountBalanceToday": 397840
   },
   {
-    "date": "2021-03-30T00:00:00.000Z",
-    "amount": 6362
+      "date": "2021-03-30T00:00:00.000Z",
+      "amount": 6362,
+      "accountBalanceToday": 404202
   },
   {
-    "date": "2021-03-31T00:00:00.000Z",
-    "amount": 7731
+      "date": "2021-03-31T00:00:00.000Z",
+      "amount": 7731,
+      "accountBalanceToday": 411933
   },
   {
-    "date": "2021-04-01T00:00:00.000Z",
-    "amount": 7679
+      "date": "2021-04-01T00:00:00.000Z",
+      "amount": 7679,
+      "accountBalanceToday": 419612
   },
   {
-    "date": "2021-04-02T00:00:00.000Z",
-    "amount": 830
+      "date": "2021-04-02T00:00:00.000Z",
+      "amount": 830,
+      "accountBalanceToday": 420442
   },
   {
-    "date": "2021-04-03T00:00:00.000Z",
-    "amount": 2163
+      "date": "2021-04-03T00:00:00.000Z",
+      "amount": 2163,
+      "accountBalanceToday": 422605
   },
   {
-    "date": "2021-04-04T00:00:00.000Z",
-    "amount": 6242
+      "date": "2021-04-04T00:00:00.000Z",
+      "amount": 6242,
+      "accountBalanceToday": 428847
   },
   {
-    "date": "2021-04-05T00:00:00.000Z",
-    "amount": 3867
+      "date": "2021-04-05T00:00:00.000Z",
+      "amount": 3867,
+      "accountBalanceToday": 432714
   },
   {
-    "date": "2021-04-06T00:00:00.000Z",
-    "amount": 666
+      "date": "2021-04-06T00:00:00.000Z",
+      "amount": 666,
+      "accountBalanceToday": 433380
   },
   {
-    "date": "2021-04-07T00:00:00.000Z",
-    "amount": 1275
+      "date": "2021-04-07T00:00:00.000Z",
+      "amount": 1275,
+      "accountBalanceToday": 434655
   },
   {
-    "date": "2021-04-08T00:00:00.000Z",
-    "amount": 9297
+      "date": "2021-04-08T00:00:00.000Z",
+      "amount": 9297,
+      "accountBalanceToday": 443952
   },
   {
-    "date": "2021-04-09T00:00:00.000Z",
-    "amount": 973
+      "date": "2021-04-09T00:00:00.000Z",
+      "amount": 973,
+      "accountBalanceToday": 444925
   },
   {
-    "date": "2021-04-10T00:00:00.000Z",
-    "amount": 1377
+      "date": "2021-04-10T00:00:00.000Z",
+      "amount": 1377,
+      "accountBalanceToday": 446302
   },
   {
-    "date": "2021-04-11T00:00:00.000Z",
-    "amount": 3621
+      "date": "2021-04-11T00:00:00.000Z",
+      "amount": 3621,
+      "accountBalanceToday": 449923
   },
   {
-    "date": "2021-04-12T00:00:00.000Z",
-    "amount": 9779
+      "date": "2021-04-12T00:00:00.000Z",
+      "amount": 9779,
+      "accountBalanceToday": 459702
   },
   {
-    "date": "2021-04-13T00:00:00.000Z",
-    "amount": 2549
+      "date": "2021-04-13T00:00:00.000Z",
+      "amount": 2549,
+      "accountBalanceToday": 462251
   },
   {
-    "date": "2021-04-14T00:00:00.000Z",
-    "amount": 4572
+      "date": "2021-04-14T00:00:00.000Z",
+      "amount": 4572,
+      "accountBalanceToday": 466823
   },
   {
-    "date": "2021-04-15T00:00:00.000Z",
-    "amount": 3621
+      "date": "2021-04-15T00:00:00.000Z",
+      "amount": 3621,
+      "accountBalanceToday": 470444
   },
   {
-    "date": "2021-04-16T00:00:00.000Z",
-    "amount": 1099
+      "date": "2021-04-16T00:00:00.000Z",
+      "amount": 1099,
+      "accountBalanceToday": 471543
   },
   {
-    "date": "2021-04-17T00:00:00.000Z",
-    "amount": 3313
+      "date": "2021-04-17T00:00:00.000Z",
+      "amount": 3313,
+      "accountBalanceToday": 474856
   },
   {
-    "date": "2021-04-18T00:00:00.000Z",
-    "amount": 3972
+      "date": "2021-04-18T00:00:00.000Z",
+      "amount": 3972,
+      "accountBalanceToday": 478828
   },
   {
-    "date": "2021-04-19T00:00:00.000Z",
-    "amount": 2598
+      "date": "2021-04-19T00:00:00.000Z",
+      "amount": 2598,
+      "accountBalanceToday": 481426
   },
   {
-    "date": "2021-04-20T00:00:00.000Z",
-    "amount": 5993
+      "date": "2021-04-20T00:00:00.000Z",
+      "amount": 5993,
+      "accountBalanceToday": 487419
   },
   {
-    "date": "2021-04-21T00:00:00.000Z",
-    "amount": 3306
+      "date": "2021-04-21T00:00:00.000Z",
+      "amount": 3306,
+      "accountBalanceToday": 490725
   },
   {
-    "date": "2021-04-22T00:00:00.000Z",
-    "amount": 7259
+      "date": "2021-04-22T00:00:00.000Z",
+      "amount": 7259,
+      "accountBalanceToday": 497984
   },
   {
-    "date": "2021-04-23T00:00:00.000Z",
-    "amount": 9474
+      "date": "2021-04-23T00:00:00.000Z",
+      "amount": 9474,
+      "accountBalanceToday": 507458
   },
   {
-    "date": "2021-04-24T00:00:00.000Z",
-    "amount": 6250
+      "date": "2021-04-24T00:00:00.000Z",
+      "amount": 6250,
+      "accountBalanceToday": 513708
   },
   {
-    "date": "2021-04-25T00:00:00.000Z",
-    "amount": 4573
+      "date": "2021-04-25T00:00:00.000Z",
+      "amount": 4573,
+      "accountBalanceToday": 518281
   },
   {
-    "date": "2021-04-26T00:00:00.000Z",
-    "amount": 9468
+      "date": "2021-04-26T00:00:00.000Z",
+      "amount": 9468,
+      "accountBalanceToday": 527749
   },
   {
-    "date": "2021-04-27T00:00:00.000Z",
-    "amount": 1188
+      "date": "2021-04-27T00:00:00.000Z",
+      "amount": 1188,
+      "accountBalanceToday": 528937
   },
   {
-    "date": "2021-04-28T00:00:00.000Z",
-    "amount": 5295
+      "date": "2021-04-28T00:00:00.000Z",
+      "amount": 5295,
+      "accountBalanceToday": 534232
   },
   {
-    "date": "2021-04-29T00:00:00.000Z",
-    "amount": 5805
+      "date": "2021-04-29T00:00:00.000Z",
+      "amount": 5805,
+      "accountBalanceToday": 540037
   },
   {
-    "date": "2021-04-30T00:00:00.000Z",
-    "amount": 7039
+      "date": "2021-04-30T00:00:00.000Z",
+      "amount": 7039,
+      "accountBalanceToday": 547076
   },
   {
-    "date": "2021-05-01T00:00:00.000Z",
-    "amount": 9597
+      "date": "2021-05-01T00:00:00.000Z",
+      "amount": 9597,
+      "accountBalanceToday": 556673
   },
   {
-    "date": "2021-05-02T00:00:00.000Z",
-    "amount": 3819
+      "date": "2021-05-02T00:00:00.000Z",
+      "amount": 3819,
+      "accountBalanceToday": 560492
   },
   {
-    "date": "2021-05-03T00:00:00.000Z",
-    "amount": 7772
+      "date": "2021-05-03T00:00:00.000Z",
+      "amount": 7772,
+      "accountBalanceToday": 568264
   },
   {
-    "date": "2021-05-04T00:00:00.000Z",
-    "amount": 5667
+      "date": "2021-05-04T00:00:00.000Z",
+      "amount": 5667,
+      "accountBalanceToday": 573931
   },
   {
-    "date": "2021-05-05T00:00:00.000Z",
-    "amount": 6323
+      "date": "2021-05-05T00:00:00.000Z",
+      "amount": 6323,
+      "accountBalanceToday": 580254
   },
   {
-    "date": "2021-05-06T00:00:00.000Z",
-    "amount": 2120
+      "date": "2021-05-06T00:00:00.000Z",
+      "amount": 2120,
+      "accountBalanceToday": 582374
   },
   {
-    "date": "2021-05-07T00:00:00.000Z",
-    "amount": 9790
+      "date": "2021-05-07T00:00:00.000Z",
+      "amount": 9790,
+      "accountBalanceToday": 592164
   },
   {
-    "date": "2021-05-08T00:00:00.000Z",
-    "amount": 1488
+      "date": "2021-05-08T00:00:00.000Z",
+      "amount": 1488,
+      "accountBalanceToday": 593652
   },
   {
-    "date": "2021-05-09T00:00:00.000Z",
-    "amount": 5519
+      "date": "2021-05-09T00:00:00.000Z",
+      "amount": 5519,
+      "accountBalanceToday": 599171
   },
   {
-    "date": "2021-05-10T00:00:00.000Z",
-    "amount": 4372
+      "date": "2021-05-10T00:00:00.000Z",
+      "amount": 4372,
+      "accountBalanceToday": 603543
   },
   {
-    "date": "2021-05-11T00:00:00.000Z",
-    "amount": 6758
+      "date": "2021-05-11T00:00:00.000Z",
+      "amount": 6758,
+      "accountBalanceToday": 610301
   },
   {
-    "date": "2021-05-12T00:00:00.000Z",
-    "amount": 7574
+      "date": "2021-05-12T00:00:00.000Z",
+      "amount": 7574,
+      "accountBalanceToday": 617875
   },
   {
-    "date": "2021-05-13T00:00:00.000Z",
-    "amount": 3456
+      "date": "2021-05-13T00:00:00.000Z",
+      "amount": 3456,
+      "accountBalanceToday": 621331
   },
   {
-    "date": "2021-05-14T00:00:00.000Z",
-    "amount": 8272
+      "date": "2021-05-14T00:00:00.000Z",
+      "amount": 8272,
+      "accountBalanceToday": 629603
   },
   {
-    "date": "2021-05-15T00:00:00.000Z",
-    "amount": 3448
+      "date": "2021-05-15T00:00:00.000Z",
+      "amount": 3448,
+      "accountBalanceToday": 633051
   },
   {
-    "date": "2021-05-16T00:00:00.000Z",
-    "amount": 1299
+      "date": "2021-05-16T00:00:00.000Z",
+      "amount": 1299,
+      "accountBalanceToday": 634350
   },
   {
-    "date": "2021-05-17T00:00:00.000Z",
-    "amount": 7169
+      "date": "2021-05-17T00:00:00.000Z",
+      "amount": 7169,
+      "accountBalanceToday": 641519
   },
   {
-    "date": "2021-05-18T00:00:00.000Z",
-    "amount": 4717
+      "date": "2021-05-18T00:00:00.000Z",
+      "amount": 4717,
+      "accountBalanceToday": 646236
   },
   {
-    "date": "2021-05-19T00:00:00.000Z",
-    "amount": 8481
+      "date": "2021-05-19T00:00:00.000Z",
+      "amount": 8481,
+      "accountBalanceToday": 654717
   },
   {
-    "date": "2021-05-20T00:00:00.000Z",
-    "amount": 5538
+      "date": "2021-05-20T00:00:00.000Z",
+      "amount": 5538,
+      "accountBalanceToday": 660255
   },
   {
-    "date": "2021-05-21T00:00:00.000Z",
-    "amount": 1518
+      "date": "2021-05-21T00:00:00.000Z",
+      "amount": 1518,
+      "accountBalanceToday": 661773
   },
   {
-    "date": "2021-05-22T00:00:00.000Z",
-    "amount": 4821
+      "date": "2021-05-22T00:00:00.000Z",
+      "amount": 4821,
+      "accountBalanceToday": 666594
   },
   {
-    "date": "2021-05-23T00:00:00.000Z",
-    "amount": 2590
+      "date": "2021-05-23T00:00:00.000Z",
+      "amount": 2590,
+      "accountBalanceToday": 669184
   },
   {
-    "date": "2021-05-24T00:00:00.000Z",
-    "amount": 455
+      "date": "2021-05-24T00:00:00.000Z",
+      "amount": 455,
+      "accountBalanceToday": 669639
   },
   {
-    "date": "2021-05-25T00:00:00.000Z",
-    "amount": 1014
+      "date": "2021-05-25T00:00:00.000Z",
+      "amount": 1014,
+      "accountBalanceToday": 670653
   },
   {
-    "date": "2021-05-26T00:00:00.000Z",
-    "amount": 8690
+      "date": "2021-05-26T00:00:00.000Z",
+      "amount": 8690,
+      "accountBalanceToday": 679343
   },
   {
-    "date": "2021-05-27T00:00:00.000Z",
-    "amount": 1962
+      "date": "2021-05-27T00:00:00.000Z",
+      "amount": 1962,
+      "accountBalanceToday": 681305
   },
   {
-    "date": "2021-05-28T00:00:00.000Z",
-    "amount": 8539
+      "date": "2021-05-28T00:00:00.000Z",
+      "amount": 8539,
+      "accountBalanceToday": 689844
   },
   {
-    "date": "2021-05-29T00:00:00.000Z",
-    "amount": 1696
+      "date": "2021-05-29T00:00:00.000Z",
+      "amount": 1696,
+      "accountBalanceToday": 691540
   },
   {
-    "date": "2021-05-30T00:00:00.000Z",
-    "amount": 9364
+      "date": "2021-05-30T00:00:00.000Z",
+      "amount": 9364,
+      "accountBalanceToday": 700904
   },
   {
-    "date": "2021-05-31T00:00:00.000Z",
-    "amount": 3058
+      "date": "2021-05-31T00:00:00.000Z",
+      "amount": 3058,
+      "accountBalanceToday": 703962
   },
   {
-    "date": "2021-06-01T00:00:00.000Z",
-    "amount": 6493
+      "date": "2021-06-01T00:00:00.000Z",
+      "amount": 6493,
+      "accountBalanceToday": 710455
   },
   {
-    "date": "2021-06-02T00:00:00.000Z",
-    "amount": 6591
+      "date": "2021-06-02T00:00:00.000Z",
+      "amount": 6591,
+      "accountBalanceToday": 717046
   },
   {
-    "date": "2021-06-03T00:00:00.000Z",
-    "amount": 6337
+      "date": "2021-06-03T00:00:00.000Z",
+      "amount": 6337,
+      "accountBalanceToday": 723383
   },
   {
-    "date": "2021-06-04T00:00:00.000Z",
-    "amount": 7138
+      "date": "2021-06-04T00:00:00.000Z",
+      "amount": 7138,
+      "accountBalanceToday": 730521
   },
   {
-    "date": "2021-06-05T00:00:00.000Z",
-    "amount": 1833
+      "date": "2021-06-05T00:00:00.000Z",
+      "amount": 1833,
+      "accountBalanceToday": 732354
   },
   {
-    "date": "2021-06-06T00:00:00.000Z",
-    "amount": 3565
+      "date": "2021-06-06T00:00:00.000Z",
+      "amount": 3565,
+      "accountBalanceToday": 735919
   },
   {
-    "date": "2021-06-07T00:00:00.000Z",
-    "amount": 2922
+      "date": "2021-06-07T00:00:00.000Z",
+      "amount": 2922,
+      "accountBalanceToday": 738841
   },
   {
-    "date": "2021-06-08T00:00:00.000Z",
-    "amount": 3840
+      "date": "2021-06-08T00:00:00.000Z",
+      "amount": 3840,
+      "accountBalanceToday": 742681
   },
   {
-    "date": "2021-06-09T00:00:00.000Z",
-    "amount": 1160
+      "date": "2021-06-09T00:00:00.000Z",
+      "amount": 1160,
+      "accountBalanceToday": 743841
   },
   {
-    "date": "2021-06-10T00:00:00.000Z",
-    "amount": 8330
+      "date": "2021-06-10T00:00:00.000Z",
+      "amount": 8330,
+      "accountBalanceToday": 752171
   },
   {
-    "date": "2021-06-11T00:00:00.000Z",
-    "amount": 2096
+      "date": "2021-06-11T00:00:00.000Z",
+      "amount": 2096,
+      "accountBalanceToday": 754267
   },
   {
-    "date": "2021-06-12T00:00:00.000Z",
-    "amount": 6420
+      "date": "2021-06-12T00:00:00.000Z",
+      "amount": 6420,
+      "accountBalanceToday": 760687
   },
   {
-    "date": "2021-06-13T00:00:00.000Z",
-    "amount": 6157
+      "date": "2021-06-13T00:00:00.000Z",
+      "amount": 6157,
+      "accountBalanceToday": 766844
   },
   {
-    "date": "2021-06-14T00:00:00.000Z",
-    "amount": 3530
+      "date": "2021-06-14T00:00:00.000Z",
+      "amount": 3530,
+      "accountBalanceToday": 770374
   },
   {
-    "date": "2021-06-15T00:00:00.000Z",
-    "amount": 2142
+      "date": "2021-06-15T00:00:00.000Z",
+      "amount": 2142,
+      "accountBalanceToday": 772516
   },
   {
-    "date": "2021-06-16T00:00:00.000Z",
-    "amount": 3235
+      "date": "2021-06-16T00:00:00.000Z",
+      "amount": 3235,
+      "accountBalanceToday": 775751
   },
   {
-    "date": "2021-06-17T00:00:00.000Z",
-    "amount": 7528
+      "date": "2021-06-17T00:00:00.000Z",
+      "amount": 7528,
+      "accountBalanceToday": 783279
   },
   {
-    "date": "2021-06-18T00:00:00.000Z",
-    "amount": 620
+      "date": "2021-06-18T00:00:00.000Z",
+      "amount": 620,
+      "accountBalanceToday": 783899
   },
   {
-    "date": "2021-06-19T00:00:00.000Z",
-    "amount": 1976
+      "date": "2021-06-19T00:00:00.000Z",
+      "amount": 1976,
+      "accountBalanceToday": 785875
   },
   {
-    "date": "2021-06-20T00:00:00.000Z",
-    "amount": 4787
+      "date": "2021-06-20T00:00:00.000Z",
+      "amount": 4787,
+      "accountBalanceToday": 790662
   },
   {
-    "date": "2021-06-21T00:00:00.000Z",
-    "amount": 4231
+      "date": "2021-06-21T00:00:00.000Z",
+      "amount": 4231,
+      "accountBalanceToday": 794893
   },
   {
-    "date": "2021-06-22T00:00:00.000Z",
-    "amount": 5825
+      "date": "2021-06-22T00:00:00.000Z",
+      "amount": 5825,
+      "accountBalanceToday": 800718
   },
   {
-    "date": "2021-06-23T00:00:00.000Z",
-    "amount": 7453
+      "date": "2021-06-23T00:00:00.000Z",
+      "amount": 7453,
+      "accountBalanceToday": 808171
   },
   {
-    "date": "2021-06-24T00:00:00.000Z",
-    "amount": 8115
+      "date": "2021-06-24T00:00:00.000Z",
+      "amount": 8115,
+      "accountBalanceToday": 816286
   },
   {
-    "date": "2021-06-25T00:00:00.000Z",
-    "amount": 4879
+      "date": "2021-06-25T00:00:00.000Z",
+      "amount": 4879,
+      "accountBalanceToday": 821165
   },
   {
-    "date": "2021-06-26T00:00:00.000Z",
-    "amount": 6315
+      "date": "2021-06-26T00:00:00.000Z",
+      "amount": 6315,
+      "accountBalanceToday": 827480
   },
   {
-    "date": "2021-06-27T00:00:00.000Z",
-    "amount": 7427
+      "date": "2021-06-27T00:00:00.000Z",
+      "amount": 7427,
+      "accountBalanceToday": 834907
   },
   {
-    "date": "2021-06-28T00:00:00.000Z",
-    "amount": 7368
+      "date": "2021-06-28T00:00:00.000Z",
+      "amount": 7368,
+      "accountBalanceToday": 842275
   },
   {
-    "date": "2021-06-29T00:00:00.000Z",
-    "amount": 3850
+      "date": "2021-06-29T00:00:00.000Z",
+      "amount": 3850,
+      "accountBalanceToday": 846125
   },
   {
-    "date": "2021-06-30T00:00:00.000Z",
-    "amount": 671
+      "date": "2021-06-30T00:00:00.000Z",
+      "amount": 671,
+      "accountBalanceToday": 846796
   },
   {
-    "date": "2021-07-01T00:00:00.000Z",
-    "amount": 6561
+      "date": "2021-07-01T00:00:00.000Z",
+      "amount": 6561,
+      "accountBalanceToday": 853357
   },
   {
-    "date": "2021-07-02T00:00:00.000Z",
-    "amount": 3457
+      "date": "2021-07-02T00:00:00.000Z",
+      "amount": 3457,
+      "accountBalanceToday": 856814
   },
   {
-    "date": "2021-07-03T00:00:00.000Z",
-    "amount": 7786
+      "date": "2021-07-03T00:00:00.000Z",
+      "amount": 7786,
+      "accountBalanceToday": 864600
   },
   {
-    "date": "2021-07-04T00:00:00.000Z",
-    "amount": 8206
+      "date": "2021-07-04T00:00:00.000Z",
+      "amount": 8206,
+      "accountBalanceToday": 872806
   },
   {
-    "date": "2021-07-05T00:00:00.000Z",
-    "amount": 2195
+      "date": "2021-07-05T00:00:00.000Z",
+      "amount": 2195,
+      "accountBalanceToday": 875001
   },
   {
-    "date": "2021-07-06T00:00:00.000Z",
-    "amount": 887
+      "date": "2021-07-06T00:00:00.000Z",
+      "amount": 887,
+      "accountBalanceToday": 875888
   },
   {
-    "date": "2021-07-07T00:00:00.000Z",
-    "amount": 5650
+      "date": "2021-07-07T00:00:00.000Z",
+      "amount": 5650,
+      "accountBalanceToday": 881538
   },
   {
-    "date": "2021-07-08T00:00:00.000Z",
-    "amount": 3902
+      "date": "2021-07-08T00:00:00.000Z",
+      "amount": 3902,
+      "accountBalanceToday": 885440
   },
   {
-    "date": "2021-07-09T00:00:00.000Z",
-    "amount": 2229
+      "date": "2021-07-09T00:00:00.000Z",
+      "amount": 2229,
+      "accountBalanceToday": 887669
   },
   {
-    "date": "2021-07-10T00:00:00.000Z",
-    "amount": 5077
+      "date": "2021-07-10T00:00:00.000Z",
+      "amount": 5077,
+      "accountBalanceToday": 892746
   },
   {
-    "date": "2021-07-11T00:00:00.000Z",
-    "amount": 3956
+      "date": "2021-07-11T00:00:00.000Z",
+      "amount": 3956,
+      "accountBalanceToday": 896702
   },
   {
-    "date": "2021-07-12T00:00:00.000Z",
-    "amount": 4736
+      "date": "2021-07-12T00:00:00.000Z",
+      "amount": 4736,
+      "accountBalanceToday": 901438
   },
   {
-    "date": "2021-07-13T00:00:00.000Z",
-    "amount": 5003
+      "date": "2021-07-13T00:00:00.000Z",
+      "amount": 5003,
+      "accountBalanceToday": 906441
   },
   {
-    "date": "2021-07-14T00:00:00.000Z",
-    "amount": 6816
+      "date": "2021-07-14T00:00:00.000Z",
+      "amount": 6816,
+      "accountBalanceToday": 913257
   },
   {
-    "date": "2021-07-15T00:00:00.000Z",
-    "amount": 2248
+      "date": "2021-07-15T00:00:00.000Z",
+      "amount": 2248,
+      "accountBalanceToday": 915505
   },
   {
-    "date": "2021-07-16T00:00:00.000Z",
-    "amount": 5463
+      "date": "2021-07-16T00:00:00.000Z",
+      "amount": 5463,
+      "accountBalanceToday": 920968
   },
   {
-    "date": "2021-07-17T00:00:00.000Z",
-    "amount": 5547
+      "date": "2021-07-17T00:00:00.000Z",
+      "amount": 5547,
+      "accountBalanceToday": 926515
   },
   {
-    "date": "2021-07-18T00:00:00.000Z",
-    "amount": 185
+      "date": "2021-07-18T00:00:00.000Z",
+      "amount": 185,
+      "accountBalanceToday": 926700
   },
   {
-    "date": "2021-07-19T00:00:00.000Z",
-    "amount": 6652
+      "date": "2021-07-19T00:00:00.000Z",
+      "amount": 6652,
+      "accountBalanceToday": 933352
   },
   {
-    "date": "2021-07-20T00:00:00.000Z",
-    "amount": 4655
+      "date": "2021-07-20T00:00:00.000Z",
+      "amount": 4655,
+      "accountBalanceToday": 938007
   },
   {
-    "date": "2021-07-21T00:00:00.000Z",
-    "amount": 4954
+      "date": "2021-07-21T00:00:00.000Z",
+      "amount": 4954,
+      "accountBalanceToday": 942961
   },
   {
-    "date": "2021-07-22T00:00:00.000Z",
-    "amount": 1147
+      "date": "2021-07-22T00:00:00.000Z",
+      "amount": 1147,
+      "accountBalanceToday": 944108
   },
   {
-    "date": "2021-07-23T00:00:00.000Z",
-    "amount": 8798
+      "date": "2021-07-23T00:00:00.000Z",
+      "amount": 8798,
+      "accountBalanceToday": 952906
   },
   {
-    "date": "2021-07-24T00:00:00.000Z",
-    "amount": 2617
+      "date": "2021-07-24T00:00:00.000Z",
+      "amount": 2617,
+      "accountBalanceToday": 955523
   },
   {
-    "date": "2021-07-25T00:00:00.000Z",
-    "amount": 9643
+      "date": "2021-07-25T00:00:00.000Z",
+      "amount": 9643,
+      "accountBalanceToday": 965166
   },
   {
-    "date": "2021-07-26T00:00:00.000Z",
-    "amount": 8416
+      "date": "2021-07-26T00:00:00.000Z",
+      "amount": 8416,
+      "accountBalanceToday": 973582
   },
   {
-    "date": "2021-07-27T00:00:00.000Z",
-    "amount": 9293
+      "date": "2021-07-27T00:00:00.000Z",
+      "amount": 9293,
+      "accountBalanceToday": 982875
   },
   {
-    "date": "2021-07-28T00:00:00.000Z",
-    "amount": 5734
+      "date": "2021-07-28T00:00:00.000Z",
+      "amount": 5734,
+      "accountBalanceToday": 988609
   },
   {
-    "date": "2021-07-29T00:00:00.000Z",
-    "amount": 5900
+      "date": "2021-07-29T00:00:00.000Z",
+      "amount": 5900,
+      "accountBalanceToday": 994509
   },
   {
-    "date": "2021-07-30T00:00:00.000Z",
-    "amount": 7037
+      "date": "2021-07-30T00:00:00.000Z",
+      "amount": 7037,
+      "accountBalanceToday": 1001546
   },
   {
-    "date": "2021-07-31T00:00:00.000Z",
-    "amount": 6072
+      "date": "2021-07-31T00:00:00.000Z",
+      "amount": 6072,
+      "accountBalanceToday": 1007618
   },
   {
-    "date": "2021-08-01T00:00:00.000Z",
-    "amount": 2891
+      "date": "2021-08-01T00:00:00.000Z",
+      "amount": 2891,
+      "accountBalanceToday": 1010509
   },
   {
-    "date": "2021-08-02T00:00:00.000Z",
-    "amount": 2132
+      "date": "2021-08-02T00:00:00.000Z",
+      "amount": 2132,
+      "accountBalanceToday": 1012641
   },
   {
-    "date": "2021-08-03T00:00:00.000Z",
-    "amount": 99
+      "date": "2021-08-03T00:00:00.000Z",
+      "amount": 99,
+      "accountBalanceToday": 1012740
   },
   {
-    "date": "2021-08-04T00:00:00.000Z",
-    "amount": 8886
+      "date": "2021-08-04T00:00:00.000Z",
+      "amount": 8886,
+      "accountBalanceToday": 1021626
   },
   {
-    "date": "2021-08-05T00:00:00.000Z",
-    "amount": 6524
+      "date": "2021-08-05T00:00:00.000Z",
+      "amount": 6524,
+      "accountBalanceToday": 1028150
   },
   {
-    "date": "2021-08-06T00:00:00.000Z",
-    "amount": 7729
+      "date": "2021-08-06T00:00:00.000Z",
+      "amount": 7729,
+      "accountBalanceToday": 1035879
   },
   {
-    "date": "2021-08-07T00:00:00.000Z",
-    "amount": 4425
+      "date": "2021-08-07T00:00:00.000Z",
+      "amount": 4425,
+      "accountBalanceToday": 1040304
   },
   {
-    "date": "2021-08-08T00:00:00.000Z",
-    "amount": 4155
+      "date": "2021-08-08T00:00:00.000Z",
+      "amount": 4155,
+      "accountBalanceToday": 1044459
   },
   {
-    "date": "2021-08-09T00:00:00.000Z",
-    "amount": 127
+      "date": "2021-08-09T00:00:00.000Z",
+      "amount": 127,
+      "accountBalanceToday": 1044586
   },
   {
-    "date": "2021-08-10T00:00:00.000Z",
-    "amount": 8403
+      "date": "2021-08-10T00:00:00.000Z",
+      "amount": 8403,
+      "accountBalanceToday": 1052989
   },
   {
-    "date": "2021-08-11T00:00:00.000Z",
-    "amount": 8546
+      "date": "2021-08-11T00:00:00.000Z",
+      "amount": 8546,
+      "accountBalanceToday": 1061535
   },
   {
-    "date": "2021-08-12T00:00:00.000Z",
-    "amount": 2095
+      "date": "2021-08-12T00:00:00.000Z",
+      "amount": 2095,
+      "accountBalanceToday": 1063630
   },
   {
-    "date": "2021-08-13T00:00:00.000Z",
-    "amount": 5343
+      "date": "2021-08-13T00:00:00.000Z",
+      "amount": 5343,
+      "accountBalanceToday": 1068973
   },
   {
-    "date": "2021-08-14T00:00:00.000Z",
-    "amount": 7996
+      "date": "2021-08-14T00:00:00.000Z",
+      "amount": 7996,
+      "accountBalanceToday": 1076969
   },
   {
-    "date": "2021-08-15T00:00:00.000Z",
-    "amount": 6618
+      "date": "2021-08-15T00:00:00.000Z",
+      "amount": 6618,
+      "accountBalanceToday": 1083587
   },
   {
-    "date": "2021-08-16T00:00:00.000Z",
-    "amount": 5949
+      "date": "2021-08-16T00:00:00.000Z",
+      "amount": 5949,
+      "accountBalanceToday": 1089536
   },
   {
-    "date": "2021-08-17T00:00:00.000Z",
-    "amount": 7038
+      "date": "2021-08-17T00:00:00.000Z",
+      "amount": 7038,
+      "accountBalanceToday": 1096574
   },
   {
-    "date": "2021-08-18T00:00:00.000Z",
-    "amount": 8624
+      "date": "2021-08-18T00:00:00.000Z",
+      "amount": 8624,
+      "accountBalanceToday": 1105198
   },
   {
-    "date": "2021-08-19T00:00:00.000Z",
-    "amount": 7627
+      "date": "2021-08-19T00:00:00.000Z",
+      "amount": 7627,
+      "accountBalanceToday": 1112825
   },
   {
-    "date": "2021-08-20T00:00:00.000Z",
-    "amount": 4280
+      "date": "2021-08-20T00:00:00.000Z",
+      "amount": 4280,
+      "accountBalanceToday": 1117105
   },
   {
-    "date": "2021-08-21T00:00:00.000Z",
-    "amount": 5041
+      "date": "2021-08-21T00:00:00.000Z",
+      "amount": 5041,
+      "accountBalanceToday": 1122146
   },
   {
-    "date": "2021-08-22T00:00:00.000Z",
-    "amount": 6219
+      "date": "2021-08-22T00:00:00.000Z",
+      "amount": 6219,
+      "accountBalanceToday": 1128365
   },
   {
-    "date": "2021-08-23T00:00:00.000Z",
-    "amount": 4162
+      "date": "2021-08-23T00:00:00.000Z",
+      "amount": 4162,
+      "accountBalanceToday": 1132527
   },
   {
-    "date": "2021-08-24T00:00:00.000Z",
-    "amount": 8775
+      "date": "2021-08-24T00:00:00.000Z",
+      "amount": 8775,
+      "accountBalanceToday": 1141302
   },
   {
-    "date": "2021-08-25T00:00:00.000Z",
-    "amount": 2596
+      "date": "2021-08-25T00:00:00.000Z",
+      "amount": 2596,
+      "accountBalanceToday": 1143898
   },
   {
-    "date": "2021-08-26T00:00:00.000Z",
-    "amount": 4166
+      "date": "2021-08-26T00:00:00.000Z",
+      "amount": 4166,
+      "accountBalanceToday": 1148064
   },
   {
-    "date": "2021-08-27T00:00:00.000Z",
-    "amount": 8666
+      "date": "2021-08-27T00:00:00.000Z",
+      "amount": 8666,
+      "accountBalanceToday": 1156730
   },
   {
-    "date": "2021-08-28T00:00:00.000Z",
-    "amount": 4420
+      "date": "2021-08-28T00:00:00.000Z",
+      "amount": 4420,
+      "accountBalanceToday": 1161150
   },
   {
-    "date": "2021-08-29T00:00:00.000Z",
-    "amount": 9049
+      "date": "2021-08-29T00:00:00.000Z",
+      "amount": 9049,
+      "accountBalanceToday": 1170199
   },
   {
-    "date": "2021-08-30T00:00:00.000Z",
-    "amount": 7721
+      "date": "2021-08-30T00:00:00.000Z",
+      "amount": 7721,
+      "accountBalanceToday": 1177920
   },
   {
-    "date": "2021-08-31T00:00:00.000Z",
-    "amount": 6063
+      "date": "2021-08-31T00:00:00.000Z",
+      "amount": 6063,
+      "accountBalanceToday": 1183983
   },
   {
-    "date": "2021-09-01T00:00:00.000Z",
-    "amount": 8281
+      "date": "2021-09-01T00:00:00.000Z",
+      "amount": 8281,
+      "accountBalanceToday": 1192264
   },
   {
-    "date": "2021-09-02T00:00:00.000Z",
-    "amount": 5780
+      "date": "2021-09-02T00:00:00.000Z",
+      "amount": 5780,
+      "accountBalanceToday": 1198044
   },
   {
-    "date": "2021-09-03T00:00:00.000Z",
-    "amount": 976
+      "date": "2021-09-03T00:00:00.000Z",
+      "amount": 976,
+      "accountBalanceToday": 1199020
   },
   {
-    "date": "2021-09-04T00:00:00.000Z",
-    "amount": 4929
+      "date": "2021-09-04T00:00:00.000Z",
+      "amount": 4929,
+      "accountBalanceToday": 1203949
   },
   {
-    "date": "2021-09-05T00:00:00.000Z",
-    "amount": 9013
+      "date": "2021-09-05T00:00:00.000Z",
+      "amount": 9013,
+      "accountBalanceToday": 1212962
   },
   {
-    "date": "2021-09-06T00:00:00.000Z",
-    "amount": 4805
+      "date": "2021-09-06T00:00:00.000Z",
+      "amount": 4805,
+      "accountBalanceToday": 1217767
   },
   {
-    "date": "2021-09-07T00:00:00.000Z",
-    "amount": 4973
+      "date": "2021-09-07T00:00:00.000Z",
+      "amount": 4973,
+      "accountBalanceToday": 1222740
   },
   {
-    "date": "2021-09-08T00:00:00.000Z",
-    "amount": 6742
+      "date": "2021-09-08T00:00:00.000Z",
+      "amount": 6742,
+      "accountBalanceToday": 1229482
   },
   {
-    "date": "2021-09-09T00:00:00.000Z",
-    "amount": 295
+      "date": "2021-09-09T00:00:00.000Z",
+      "amount": 295,
+      "accountBalanceToday": 1229777
   },
   {
-    "date": "2021-09-10T00:00:00.000Z",
-    "amount": 6229
+      "date": "2021-09-10T00:00:00.000Z",
+      "amount": 6229,
+      "accountBalanceToday": 1236006
   },
   {
-    "date": "2021-09-11T00:00:00.000Z",
-    "amount": 7990
+      "date": "2021-09-11T00:00:00.000Z",
+      "amount": 7990,
+      "accountBalanceToday": 1243996
   },
   {
-    "date": "2021-09-12T00:00:00.000Z",
-    "amount": 5385
+      "date": "2021-09-12T00:00:00.000Z",
+      "amount": 5385,
+      "accountBalanceToday": 1249381
   },
   {
-    "date": "2021-09-13T00:00:00.000Z",
-    "amount": 2703
+      "date": "2021-09-13T00:00:00.000Z",
+      "amount": 2703,
+      "accountBalanceToday": 1252084
   },
   {
-    "date": "2021-09-14T00:00:00.000Z",
-    "amount": 1310
+      "date": "2021-09-14T00:00:00.000Z",
+      "amount": 1310,
+      "accountBalanceToday": 1253394
   },
   {
-    "date": "2021-09-15T00:00:00.000Z",
-    "amount": 6844
+      "date": "2021-09-15T00:00:00.000Z",
+      "amount": 6844,
+      "accountBalanceToday": 1260238
   },
   {
-    "date": "2021-09-16T00:00:00.000Z",
-    "amount": 5203
+      "date": "2021-09-16T00:00:00.000Z",
+      "amount": 5203,
+      "accountBalanceToday": 1265441
   },
   {
-    "date": "2021-09-17T00:00:00.000Z",
-    "amount": 2791
+      "date": "2021-09-17T00:00:00.000Z",
+      "amount": 2791,
+      "accountBalanceToday": 1268232
   },
   {
-    "date": "2021-09-18T00:00:00.000Z",
-    "amount": 2896
+      "date": "2021-09-18T00:00:00.000Z",
+      "amount": 2896,
+      "accountBalanceToday": 1271128
   },
   {
-    "date": "2021-09-19T00:00:00.000Z",
-    "amount": 5755
+      "date": "2021-09-19T00:00:00.000Z",
+      "amount": 5755,
+      "accountBalanceToday": 1276883
   },
   {
-    "date": "2021-09-20T00:00:00.000Z",
-    "amount": 9741
+      "date": "2021-09-20T00:00:00.000Z",
+      "amount": 9741,
+      "accountBalanceToday": 1286624
   },
   {
-    "date": "2021-09-21T00:00:00.000Z",
-    "amount": 8875
+      "date": "2021-09-21T00:00:00.000Z",
+      "amount": 8875,
+      "accountBalanceToday": 1295499
   },
   {
-    "date": "2021-09-22T00:00:00.000Z",
-    "amount": 6534
+      "date": "2021-09-22T00:00:00.000Z",
+      "amount": 6534,
+      "accountBalanceToday": 1302033
   },
   {
-    "date": "2021-09-23T00:00:00.000Z",
-    "amount": 5538
+      "date": "2021-09-23T00:00:00.000Z",
+      "amount": 5538,
+      "accountBalanceToday": 1307571
   },
   {
-    "date": "2021-09-24T00:00:00.000Z",
-    "amount": 1549
+      "date": "2021-09-24T00:00:00.000Z",
+      "amount": 1549,
+      "accountBalanceToday": 1309120
   },
   {
-    "date": "2021-09-25T00:00:00.000Z",
-    "amount": 1417
+      "date": "2021-09-25T00:00:00.000Z",
+      "amount": 1417,
+      "accountBalanceToday": 1310537
   },
   {
-    "date": "2021-09-26T00:00:00.000Z",
-    "amount": 2696
+      "date": "2021-09-26T00:00:00.000Z",
+      "amount": 2696,
+      "accountBalanceToday": 1313233
   },
   {
-    "date": "2021-09-27T00:00:00.000Z",
-    "amount": 8767
+      "date": "2021-09-27T00:00:00.000Z",
+      "amount": 8767,
+      "accountBalanceToday": 1322000
   },
   {
-    "date": "2021-09-28T00:00:00.000Z",
-    "amount": 596
+      "date": "2021-09-28T00:00:00.000Z",
+      "amount": 596,
+      "accountBalanceToday": 1322596
   },
   {
-    "date": "2021-09-29T00:00:00.000Z",
-    "amount": 4158
+      "date": "2021-09-29T00:00:00.000Z",
+      "amount": 4158,
+      "accountBalanceToday": 1326754
   },
   {
-    "date": "2021-09-30T00:00:00.000Z",
-    "amount": 2512
+      "date": "2021-09-30T00:00:00.000Z",
+      "amount": 2512,
+      "accountBalanceToday": 1329266
   },
   {
-    "date": "2021-10-01T00:00:00.000Z",
-    "amount": 2197
+      "date": "2021-10-01T00:00:00.000Z",
+      "amount": 2197,
+      "accountBalanceToday": 1331463
   },
   {
-    "date": "2021-10-02T00:00:00.000Z",
-    "amount": 6262
+      "date": "2021-10-02T00:00:00.000Z",
+      "amount": 6262,
+      "accountBalanceToday": 1337725
   },
   {
-    "date": "2021-10-03T00:00:00.000Z",
-    "amount": 9583
+      "date": "2021-10-03T00:00:00.000Z",
+      "amount": 9583,
+      "accountBalanceToday": 1347308
   },
   {
-    "date": "2021-10-04T00:00:00.000Z",
-    "amount": 6279
+      "date": "2021-10-04T00:00:00.000Z",
+      "amount": 6279,
+      "accountBalanceToday": 1353587
   },
   {
-    "date": "2021-10-05T00:00:00.000Z",
-    "amount": 5553
+      "date": "2021-10-05T00:00:00.000Z",
+      "amount": 5553,
+      "accountBalanceToday": 1359140
   },
   {
-    "date": "2021-10-06T00:00:00.000Z",
-    "amount": 23
+      "date": "2021-10-06T00:00:00.000Z",
+      "amount": 23,
+      "accountBalanceToday": 1359163
   },
   {
-    "date": "2021-10-07T00:00:00.000Z",
-    "amount": 4829
+      "date": "2021-10-07T00:00:00.000Z",
+      "amount": 4829,
+      "accountBalanceToday": 1363992
   },
   {
-    "date": "2021-10-08T00:00:00.000Z",
-    "amount": 4137
+      "date": "2021-10-08T00:00:00.000Z",
+      "amount": 4137,
+      "accountBalanceToday": 1368129
   },
   {
-    "date": "2021-10-09T00:00:00.000Z",
-    "amount": 3530
+      "date": "2021-10-09T00:00:00.000Z",
+      "amount": 3530,
+      "accountBalanceToday": 1371659
   },
   {
-    "date": "2021-10-10T00:00:00.000Z",
-    "amount": 8105
+      "date": "2021-10-10T00:00:00.000Z",
+      "amount": 8105,
+      "accountBalanceToday": 1379764
   },
   {
-    "date": "2021-10-11T00:00:00.000Z",
-    "amount": 937
+      "date": "2021-10-11T00:00:00.000Z",
+      "amount": 937,
+      "accountBalanceToday": 1380701
   },
   {
-    "date": "2021-10-12T00:00:00.000Z",
-    "amount": 4338
+      "date": "2021-10-12T00:00:00.000Z",
+      "amount": 4338,
+      "accountBalanceToday": 1385039
   },
   {
-    "date": "2021-10-13T00:00:00.000Z",
-    "amount": 185
+      "date": "2021-10-13T00:00:00.000Z",
+      "amount": 185,
+      "accountBalanceToday": 1385224
   },
   {
-    "date": "2021-10-14T00:00:00.000Z",
-    "amount": 998
+      "date": "2021-10-14T00:00:00.000Z",
+      "amount": 998,
+      "accountBalanceToday": 1386222
   },
   {
-    "date": "2021-10-15T00:00:00.000Z",
-    "amount": 3296
+      "date": "2021-10-15T00:00:00.000Z",
+      "amount": 3296,
+      "accountBalanceToday": 1389518
   },
   {
-    "date": "2021-10-16T00:00:00.000Z",
-    "amount": 7224
+      "date": "2021-10-16T00:00:00.000Z",
+      "amount": 7224,
+      "accountBalanceToday": 1396742
   },
   {
-    "date": "2021-10-17T00:00:00.000Z",
-    "amount": 477
+      "date": "2021-10-17T00:00:00.000Z",
+      "amount": 477,
+      "accountBalanceToday": 1397219
   },
   {
-    "date": "2021-10-18T00:00:00.000Z",
-    "amount": 3347
+      "date": "2021-10-18T00:00:00.000Z",
+      "amount": 3347,
+      "accountBalanceToday": 1400566
   },
   {
-    "date": "2021-10-19T00:00:00.000Z",
-    "amount": 9124
+      "date": "2021-10-19T00:00:00.000Z",
+      "amount": 9124,
+      "accountBalanceToday": 1409690
   },
   {
-    "date": "2021-10-20T00:00:00.000Z",
-    "amount": 2125
+      "date": "2021-10-20T00:00:00.000Z",
+      "amount": 2125,
+      "accountBalanceToday": 1411815
   },
   {
-    "date": "2021-10-21T00:00:00.000Z",
-    "amount": 5470
+      "date": "2021-10-21T00:00:00.000Z",
+      "amount": 5470,
+      "accountBalanceToday": 1417285
   },
   {
-    "date": "2021-10-22T00:00:00.000Z",
-    "amount": 2982
+      "date": "2021-10-22T00:00:00.000Z",
+      "amount": 2982,
+      "accountBalanceToday": 1420267
   },
   {
-    "date": "2021-10-23T00:00:00.000Z",
-    "amount": 4521
+      "date": "2021-10-23T00:00:00.000Z",
+      "amount": 4521,
+      "accountBalanceToday": 1424788
   },
   {
-    "date": "2021-10-24T00:00:00.000Z",
-    "amount": 3058
+      "date": "2021-10-24T00:00:00.000Z",
+      "amount": 3058,
+      "accountBalanceToday": 1427846
   },
   {
-    "date": "2021-10-25T00:00:00.000Z",
-    "amount": 1296
+      "date": "2021-10-25T00:00:00.000Z",
+      "amount": 1296,
+      "accountBalanceToday": 1429142
   },
   {
-    "date": "2021-10-26T00:00:00.000Z",
-    "amount": 575
+      "date": "2021-10-26T00:00:00.000Z",
+      "amount": 575,
+      "accountBalanceToday": 1429717
   },
   {
-    "date": "2021-10-27T00:00:00.000Z",
-    "amount": 1385
+      "date": "2021-10-27T00:00:00.000Z",
+      "amount": 1385,
+      "accountBalanceToday": 1431102
   },
   {
-    "date": "2021-10-28T00:00:00.000Z",
-    "amount": 8486
+      "date": "2021-10-28T00:00:00.000Z",
+      "amount": 8486,
+      "accountBalanceToday": 1439588
   },
   {
-    "date": "2021-10-29T00:00:00.000Z",
-    "amount": 7931
+      "date": "2021-10-29T00:00:00.000Z",
+      "amount": 7931,
+      "accountBalanceToday": 1447519
   },
   {
-    "date": "2021-10-30T00:00:00.000Z",
-    "amount": 1219
+      "date": "2021-10-30T00:00:00.000Z",
+      "amount": 1219,
+      "accountBalanceToday": 1448738
   },
   {
-    "date": "2021-10-31T00:00:00.000Z",
-    "amount": 7276
+      "date": "2021-10-31T00:00:00.000Z",
+      "amount": 7276,
+      "accountBalanceToday": 1456014
   },
   {
-    "date": "2021-11-01T00:00:00.000Z",
-    "amount": 952
+      "date": "2021-11-01T00:00:00.000Z",
+      "amount": 952,
+      "accountBalanceToday": 1456966
   },
   {
-    "date": "2021-11-02T00:00:00.000Z",
-    "amount": 1595
+      "date": "2021-11-02T00:00:00.000Z",
+      "amount": 1595,
+      "accountBalanceToday": 1458561
   },
   {
-    "date": "2021-11-03T00:00:00.000Z",
-    "amount": 3458
+      "date": "2021-11-03T00:00:00.000Z",
+      "amount": 3458,
+      "accountBalanceToday": 1462019
   },
   {
-    "date": "2021-11-04T00:00:00.000Z",
-    "amount": 6522
+      "date": "2021-11-04T00:00:00.000Z",
+      "amount": 6522,
+      "accountBalanceToday": 1468541
   },
   {
-    "date": "2021-11-05T00:00:00.000Z",
-    "amount": 4722
+      "date": "2021-11-05T00:00:00.000Z",
+      "amount": 4722,
+      "accountBalanceToday": 1473263
   },
   {
-    "date": "2021-11-06T00:00:00.000Z",
-    "amount": 2086
+      "date": "2021-11-06T00:00:00.000Z",
+      "amount": 2086,
+      "accountBalanceToday": 1475349
   },
   {
-    "date": "2021-11-07T00:00:00.000Z",
-    "amount": 0
+      "date": "2021-11-07T00:00:00.000Z",
+      "amount": 0,
+      "accountBalanceToday": 1475349
   },
   {
-    "date": "2021-11-08T00:00:00.000Z",
-    "amount": 2344
+      "date": "2021-11-08T00:00:00.000Z",
+      "amount": 2344,
+      "accountBalanceToday": 1477693
   },
   {
-    "date": "2021-11-09T00:00:00.000Z",
-    "amount": 1719
+      "date": "2021-11-09T00:00:00.000Z",
+      "amount": 1719,
+      "accountBalanceToday": 1479412
   },
   {
-    "date": "2021-11-10T00:00:00.000Z",
-    "amount": 9248
+      "date": "2021-11-10T00:00:00.000Z",
+      "amount": 9248,
+      "accountBalanceToday": 1488660
   },
   {
-    "date": "2021-11-11T00:00:00.000Z",
-    "amount": 9624
+      "date": "2021-11-11T00:00:00.000Z",
+      "amount": 9624,
+      "accountBalanceToday": 1498284
   },
   {
-    "date": "2021-11-12T00:00:00.000Z",
-    "amount": 3268
+      "date": "2021-11-12T00:00:00.000Z",
+      "amount": 3268,
+      "accountBalanceToday": 1501552
   },
   {
-    "date": "2021-11-13T00:00:00.000Z",
-    "amount": 1554
+      "date": "2021-11-13T00:00:00.000Z",
+      "amount": 1554,
+      "accountBalanceToday": 1503106
   },
   {
-    "date": "2021-11-14T00:00:00.000Z",
-    "amount": 5337
+      "date": "2021-11-14T00:00:00.000Z",
+      "amount": 5337,
+      "accountBalanceToday": 1508443
   },
   {
-    "date": "2021-11-15T00:00:00.000Z",
-    "amount": 231
+      "date": "2021-11-15T00:00:00.000Z",
+      "amount": 231,
+      "accountBalanceToday": 1508674
   },
   {
-    "date": "2021-11-16T00:00:00.000Z",
-    "amount": 5736
+      "date": "2021-11-16T00:00:00.000Z",
+      "amount": 5736,
+      "accountBalanceToday": 1514410
   },
   {
-    "date": "2021-11-17T00:00:00.000Z",
-    "amount": 3545
+      "date": "2021-11-17T00:00:00.000Z",
+      "amount": 3545,
+      "accountBalanceToday": 1517955
   },
   {
-    "date": "2021-11-18T00:00:00.000Z",
-    "amount": 5806
+      "date": "2021-11-18T00:00:00.000Z",
+      "amount": 5806,
+      "accountBalanceToday": 1523761
   },
   {
-    "date": "2021-11-19T00:00:00.000Z",
-    "amount": 5513
+      "date": "2021-11-19T00:00:00.000Z",
+      "amount": 5513,
+      "accountBalanceToday": 1529274
   },
   {
-    "date": "2021-11-20T00:00:00.000Z",
-    "amount": 6347
+      "date": "2021-11-20T00:00:00.000Z",
+      "amount": 6347,
+      "accountBalanceToday": 1535621
   },
   {
-    "date": "2021-11-21T00:00:00.000Z",
-    "amount": 3467
+      "date": "2021-11-21T00:00:00.000Z",
+      "amount": 3467,
+      "accountBalanceToday": 1539088
   },
   {
-    "date": "2021-11-22T00:00:00.000Z",
-    "amount": 2855
+      "date": "2021-11-22T00:00:00.000Z",
+      "amount": 2855,
+      "accountBalanceToday": 1541943
   },
   {
-    "date": "2021-11-23T00:00:00.000Z",
-    "amount": 6530
+      "date": "2021-11-23T00:00:00.000Z",
+      "amount": 6530,
+      "accountBalanceToday": 1548473
   },
   {
-    "date": "2021-11-24T00:00:00.000Z",
-    "amount": 7269
+      "date": "2021-11-24T00:00:00.000Z",
+      "amount": 7269,
+      "accountBalanceToday": 1555742
   },
   {
-    "date": "2021-11-25T00:00:00.000Z",
-    "amount": 7298
+      "date": "2021-11-25T00:00:00.000Z",
+      "amount": 7298,
+      "accountBalanceToday": 1563040
   },
   {
-    "date": "2021-11-26T00:00:00.000Z",
-    "amount": 6348
+      "date": "2021-11-26T00:00:00.000Z",
+      "amount": 6348,
+      "accountBalanceToday": 1569388
   },
   {
-    "date": "2021-11-27T00:00:00.000Z",
-    "amount": 1285
+      "date": "2021-11-27T00:00:00.000Z",
+      "amount": 1285,
+      "accountBalanceToday": 1570673
   },
   {
-    "date": "2021-11-28T00:00:00.000Z",
-    "amount": 9850
+      "date": "2021-11-28T00:00:00.000Z",
+      "amount": 9850,
+      "accountBalanceToday": 1580523
   },
   {
-    "date": "2021-11-29T00:00:00.000Z",
-    "amount": 9781
+      "date": "2021-11-29T00:00:00.000Z",
+      "amount": 9781,
+      "accountBalanceToday": 1590304
   },
   {
-    "date": "2021-11-30T00:00:00.000Z",
-    "amount": 9337
+      "date": "2021-11-30T00:00:00.000Z",
+      "amount": 9337,
+      "accountBalanceToday": 1599641
   },
   {
-    "date": "2021-12-01T00:00:00.000Z",
-    "amount": 212
+      "date": "2021-12-01T00:00:00.000Z",
+      "amount": 212,
+      "accountBalanceToday": 1599853
   },
   {
-    "date": "2021-12-02T00:00:00.000Z",
-    "amount": 2381
+      "date": "2021-12-02T00:00:00.000Z",
+      "amount": 2381,
+      "accountBalanceToday": 1602234
   },
   {
-    "date": "2021-12-03T00:00:00.000Z",
-    "amount": 3238
+      "date": "2021-12-03T00:00:00.000Z",
+      "amount": 3238,
+      "accountBalanceToday": 1605472
   },
   {
-    "date": "2021-12-04T00:00:00.000Z",
-    "amount": 5424
+      "date": "2021-12-04T00:00:00.000Z",
+      "amount": 5424,
+      "accountBalanceToday": 1610896
   },
   {
-    "date": "2021-12-05T00:00:00.000Z",
-    "amount": 3311
+      "date": "2021-12-05T00:00:00.000Z",
+      "amount": 3311,
+      "accountBalanceToday": 1614207
   },
   {
-    "date": "2021-12-06T00:00:00.000Z",
-    "amount": 3204
+      "date": "2021-12-06T00:00:00.000Z",
+      "amount": 3204,
+      "accountBalanceToday": 1617411
   },
   {
-    "date": "2021-12-07T00:00:00.000Z",
-    "amount": 549
+      "date": "2021-12-07T00:00:00.000Z",
+      "amount": 549,
+      "accountBalanceToday": 1617960
   },
   {
-    "date": "2021-12-08T00:00:00.000Z",
-    "amount": 9891
+      "date": "2021-12-08T00:00:00.000Z",
+      "amount": 9891,
+      "accountBalanceToday": 1627851
   },
   {
-    "date": "2021-12-09T00:00:00.000Z",
-    "amount": 909
+      "date": "2021-12-09T00:00:00.000Z",
+      "amount": 909,
+      "accountBalanceToday": 1628760
   },
   {
-    "date": "2021-12-10T00:00:00.000Z",
-    "amount": 9546
+      "date": "2021-12-10T00:00:00.000Z",
+      "amount": 9546,
+      "accountBalanceToday": 1638306
   },
   {
-    "date": "2021-12-11T00:00:00.000Z",
-    "amount": 1763
+      "date": "2021-12-11T00:00:00.000Z",
+      "amount": 1763,
+      "accountBalanceToday": 1640069
   },
   {
-    "date": "2021-12-12T00:00:00.000Z",
-    "amount": 9327
+      "date": "2021-12-12T00:00:00.000Z",
+      "amount": 9327,
+      "accountBalanceToday": 1649396
   },
   {
-    "date": "2021-12-13T00:00:00.000Z",
-    "amount": 5372
+      "date": "2021-12-13T00:00:00.000Z",
+      "amount": 5372,
+      "accountBalanceToday": 1654768
   },
   {
-    "date": "2021-12-14T00:00:00.000Z",
-    "amount": 4030
+      "date": "2021-12-14T00:00:00.000Z",
+      "amount": 4030,
+      "accountBalanceToday": 1658798
   },
   {
-    "date": "2021-12-15T00:00:00.000Z",
-    "amount": 1717
+      "date": "2021-12-15T00:00:00.000Z",
+      "amount": 1717,
+      "accountBalanceToday": 1660515
   },
   {
-    "date": "2021-12-16T00:00:00.000Z",
-    "amount": 4203
+      "date": "2021-12-16T00:00:00.000Z",
+      "amount": 4203,
+      "accountBalanceToday": 1664718
   },
   {
-    "date": "2021-12-17T00:00:00.000Z",
-    "amount": 5150
+      "date": "2021-12-17T00:00:00.000Z",
+      "amount": 5150,
+      "accountBalanceToday": 1669868
   },
   {
-    "date": "2021-12-18T00:00:00.000Z",
-    "amount": 1488
+      "date": "2021-12-18T00:00:00.000Z",
+      "amount": 1488,
+      "accountBalanceToday": 1671356
   },
   {
-    "date": "2021-12-19T00:00:00.000Z",
-    "amount": 5358
+      "date": "2021-12-19T00:00:00.000Z",
+      "amount": 5358,
+      "accountBalanceToday": 1676714
   },
   {
-    "date": "2021-12-20T00:00:00.000Z",
-    "amount": 9044
+      "date": "2021-12-20T00:00:00.000Z",
+      "amount": 9044,
+      "accountBalanceToday": 1685758
   },
   {
-    "date": "2021-12-21T00:00:00.000Z",
-    "amount": 7811
+      "date": "2021-12-21T00:00:00.000Z",
+      "amount": 7811,
+      "accountBalanceToday": 1693569
   },
   {
-    "date": "2021-12-22T00:00:00.000Z",
-    "amount": 3324
+      "date": "2021-12-22T00:00:00.000Z",
+      "amount": 3324,
+      "accountBalanceToday": 1696893
   },
   {
-    "date": "2021-12-23T00:00:00.000Z",
-    "amount": 1468
+      "date": "2021-12-23T00:00:00.000Z",
+      "amount": 1468,
+      "accountBalanceToday": 1698361
   },
   {
-    "date": "2021-12-24T00:00:00.000Z",
-    "amount": 335
+      "date": "2021-12-24T00:00:00.000Z",
+      "amount": 335,
+      "accountBalanceToday": 1698696
   },
   {
-    "date": "2021-12-25T00:00:00.000Z",
-    "amount": 8936
+      "date": "2021-12-25T00:00:00.000Z",
+      "amount": 8936,
+      "accountBalanceToday": 1707632
   },
   {
-    "date": "2021-12-26T00:00:00.000Z",
-    "amount": 261
+      "date": "2021-12-26T00:00:00.000Z",
+      "amount": 261,
+      "accountBalanceToday": 1707893
   },
   {
-    "date": "2021-12-27T00:00:00.000Z",
-    "amount": 7833
+      "date": "2021-12-27T00:00:00.000Z",
+      "amount": 7833,
+      "accountBalanceToday": 1715726
   },
   {
-    "date": "2021-12-28T00:00:00.000Z",
-    "amount": 5724
+      "date": "2021-12-28T00:00:00.000Z",
+      "amount": 5724,
+      "accountBalanceToday": 1721450
   },
   {
-    "date": "2021-12-29T00:00:00.000Z",
-    "amount": 4775
+      "date": "2021-12-29T00:00:00.000Z",
+      "amount": 4775,
+      "accountBalanceToday": 1726225
   },
   {
-    "date": "2021-12-30T00:00:00.000Z",
-    "amount": 5463
+      "date": "2021-12-30T00:00:00.000Z",
+      "amount": 5463,
+      "accountBalanceToday": 1731688
   },
   {
-    "date": "2021-12-31T00:00:00.000Z",
-    "amount": 4412
+      "date": "2021-12-31T00:00:00.000Z",
+      "amount": 4412,
+      "accountBalanceToday": 1736100
   }
 ]

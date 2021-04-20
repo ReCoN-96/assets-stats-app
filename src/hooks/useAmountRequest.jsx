@@ -6,28 +6,28 @@ moment().format();
 
 const useAmountRequest = () => {
   const [state, setState] = useState({
-    amountToday: 0,
-    totalAmount: 0,
-    variationPastOneDay: 0,
+    accountBalanceYesterday: 0,
+    accountBalanceToday: 0,
+    variation: 0,
+    totalAmount: [],
   });
   useEffect(() => {
     const fetchData = async () => {
       const response = await axios.get('/data/amount.json');
-      const moneyEarnedToday = response.data.find(({ date }) => moment().isSame(moment(date), 'day'));
-      const getAllDays = response.data.filter(
-        ({ date }) => moment(date).isSameOrBefore(moment()),
+      const { accountBalanceToday } = response.data.find(({ date }) => moment().isSame(moment(date), 'day'));
+      const amountYesterday = response.data.find(({ date }) => moment().isSame(moment(date).add(1, 'day'), 'day'));
+      const accountBalanceYesterday = amountYesterday.accountBalanceToday;
+      const totalAmount = response.data.filter(
+        ({ date }) => moment(date).isSameOrBefore(moment(), 'day'),
       );
-      const accountBalance = getAllDays.reduce(
-        (acc, { amount }) => acc + amount, 0,
-      );
-      const accountBalanceYesterday = accountBalance - moneyEarnedToday.amount;
-      const calculVariation = (
-        (accountBalance - accountBalanceYesterday)
-        / accountBalance) * 100;
+      const variation = (
+        (accountBalanceToday - accountBalanceYesterday)
+        / accountBalanceToday) * 100;
       setState({
         accountBalanceYesterday,
-        accountBalance,
-        calculVariation,
+        accountBalanceToday,
+        variation,
+        totalAmount,
       });
     };
     fetchData();

@@ -30,10 +30,10 @@ const Money = styled.span`
 const options = {
   tooltips: { enabled: false },
   hover: { mode: null },
-  responsive: true,
   legend: {
     display: false,
   },
+  responsive: true,
   maintainAspectRatio: false,
   cutoutPercentage: 80,
 };

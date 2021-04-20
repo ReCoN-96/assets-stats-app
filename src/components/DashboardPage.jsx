@@ -3,6 +3,7 @@ import styled from 'styled-components';
 
 import TotalBalance from './TotalBalance';
 import AssetsDistribution from './AssetsDistribution';
+import PortfolioDevelopment from './PortfolioDevelopment';
 
 const Container = styled.div`
     max-width: 1100px;
@@ -23,6 +24,7 @@ const Wrapper = styled.div`
   flex-direction: row;
   margin-top: 5rem;
 `;
+
 const DashboardPage = () => (
   <Container>
     <PageTitle>DASHBOARD</PageTitle>
@@ -30,6 +32,7 @@ const DashboardPage = () => (
       <TotalBalance />
       <AssetsDistribution />
     </Wrapper>
+    <PortfolioDevelopment />
   </Container>
 );
 

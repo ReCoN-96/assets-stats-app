@@ -19,17 +19,17 @@ const Title = styled.h2`
 const TotalBalance = () => {
   const {
     accountBalanceYesterday,
-    accountBalance,
-    calculVariation,
+    accountBalanceToday,
+    variation,
   } = useAmountRequest();
   return (
     <Container>
       <Title>Solde Total</Title>
-      <TotalAmount amount={`${accountBalance} $`} />
+      <TotalAmount accountBalanceToday={`${accountBalanceToday} $`} />
       <TotalAmountVariationDay
-        variation={calculVariation}
+        variation={variation}
         accountBalanceYesterday={accountBalanceYesterday}
-        accountBalance={accountBalance}
+        accountBalanceToday={accountBalanceToday}
       />
     </Container>
   );

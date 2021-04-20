@@ -16,7 +16,7 @@ const VariationText = styled.span`
 `;
 const TotalAmountVariationDay = ({
   accountBalanceYesterday,
-  accountBalance,
+  accountBalanceToday,
   variation,
 }) => {
   const data = {
@@ -25,7 +25,7 @@ const TotalAmountVariationDay = ({
       {
         lineTension: 0.1,
         borderColor: '#54bd81',
-        data: [accountBalanceYesterday, accountBalance],
+        data: [accountBalanceYesterday, accountBalanceToday],
         backgroundColor: 'transparent',
       },
     ],

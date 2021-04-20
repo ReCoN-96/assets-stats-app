@@ -19,8 +19,8 @@ const TotalText = styled.span`
   color: ${(props) => props.theme.colors.grey};
   padding-left: 1rem;
 `;
-const TotalAmount = ({ amount }) => {
-  const numberWithSpaces = amount.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
+const TotalAmount = ({ accountBalanceToday }) => {
+  const numberWithSpaces = accountBalanceToday.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
   return (
     <Wrapper>
       <Total>{numberWithSpaces}</Total>
