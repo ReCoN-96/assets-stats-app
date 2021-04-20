@@ -17,7 +17,7 @@ const PageTitle = styled.h1`
 `;
 
 const Wrapper = styled.div`
-  align-items: center;
+  align-items: flex-end;
   display: flex;
   justify-content: space-between;
   flex-direction: row;

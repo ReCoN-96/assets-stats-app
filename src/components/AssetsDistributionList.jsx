@@ -5,6 +5,7 @@ import AssetsDistributionItem from './AssetsDistributionItem';
 
 const Container = styled.ul`
   width: 36rem;
+  height: 18rem;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;

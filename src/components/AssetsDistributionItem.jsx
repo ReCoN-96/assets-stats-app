@@ -16,7 +16,7 @@ const Legend = styled.div`
   width: 2.6rem;
   border-radius: 3rem;
   margin: 0.7rem 0 0 0;
-  opacity: ${(props) => 0.05 + props.part * 0.1};
+  opacity: ${(props) => props.part * 0.06};
 `;
 const Name = styled.span`
   color: ${(props) => props.theme.colors.grey};
