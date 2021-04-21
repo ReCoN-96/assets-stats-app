@@ -22,8 +22,8 @@ const Container = styled.div`
 `;
 
 const AssetsDistribution = () => {
-  const assets = useAssetsRequest();
-  const sortedAssets = [...assets].sort(
+  const [assets] = useAssetsRequest('/data/assets.json');
+  const sortedAssets = assets.sort(
     (a, b) => a.quantity * a.actual_price - b.quantity * b.actual_price,
   ).reverse();
   return (

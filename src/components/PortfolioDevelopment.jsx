@@ -11,7 +11,7 @@ const Container = styled.div`
 const PortfolioDevelopment = () => {
   const {
     totalAmount,
-  } = useAmountRequest();
+  } = useAmountRequest('/data/amount.json');
   return (
     <Container>
       <PortfolioDevelopmentGraph totalAmount={totalAmount} />

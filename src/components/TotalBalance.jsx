@@ -21,7 +21,7 @@ const TotalBalance = () => {
     accountBalanceYesterday,
     accountBalanceToday,
     variation,
-  } = useAmountRequest();
+  } = useAmountRequest('/data/amount.json');
   return (
     <Container>
       <Title>Solde Total</Title>

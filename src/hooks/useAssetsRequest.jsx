@@ -1,12 +1,12 @@
 import { useState, useEffect } from 'react';
 import axios from 'axios';
 
-const useAssetsRequest = () => {
+const useAssetsRequest = (url) => {
   const [assets, setAssets] = useState([]);
   useEffect(() => {
     const fetchData = async () => {
-      const response = await axios.get('/data/assets.json');
-      const totalAmountAssets = assets.reduce(
+      const response = await axios.get(url);
+      const totalAmountAssets = response.data.reduce(
         // eslint-disable-next-line camelcase
         (acc, { quantity, actual_price }) => acc + (quantity * actual_price), 0,
       );
@@ -25,8 +25,8 @@ const useAssetsRequest = () => {
       setAssets(assetsWithPart);
     };
     fetchData();
-  }, [assets]);
-  return assets;
+  }, [url]);
+  return [assets, setAssets];
 };
 
 export default useAssetsRequest;

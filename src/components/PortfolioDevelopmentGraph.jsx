@@ -14,44 +14,13 @@ const PortfolioDevelopmentGraph = ({ totalAmount = [] }) => {
   const options = {
     responsive: true,
     maintainAspectRatio: false,
-    // tooltips: {
-    //   custom: (tooltipModel) => {
-    //     // if chart is not defined, return early
-    //     const chart = chartRef.current;
-    //     if (!chart) {
-    //       return;
-    //     }
-
-    //     // hide the tooltip when chartjs determines you've hovered out
-    //     if (tooltipModel.opacity === 0) {
-    //       // eslint-disable-next-line no-undef
-    //       hide();
-    //       return;
-    //     }
-
-    //     const position = chart.chartInstance.canvas.getBoundingClientRect();
-    //     console.log(position);
-    //     // assuming your tooltip is `position: fixed`
-    //     // set position of tooltip
-    //     const left = position.left + tooltipModel.caretX;
-    //     const top = position.top + tooltipModel.caretY;
-
-    //     // set values for display of data in the tooltip
-    //     const date = tooltipModel.dataPoints[0].xLabel;
-    //     const value = tooltipModel.dataPoints[0].yLabel;
-
-    //     setState({
-    //       top, left, date, value,
-    //     });
-    //   },
-    // },
   };
 
   const data = {
     labels: dayArray,
     datasets: [
       {
-        label: 'My First dataset',
+        label: 'Amount in $',
         fill: true,
         lineTension: 1,
         backgroundColor: 'rgb(85, 84, 204,0.04)',

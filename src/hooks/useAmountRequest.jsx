@@ -4,7 +4,7 @@ import moment from 'moment';
 
 moment().format();
 
-const useAmountRequest = () => {
+const useAmountRequest = (url) => {
   const [state, setState] = useState({
     accountBalanceYesterday: 0,
     accountBalanceToday: 0,
@@ -13,7 +13,7 @@ const useAmountRequest = () => {
   });
   useEffect(() => {
     const fetchData = async () => {
-      const response = await axios.get('/data/amount.json');
+      const response = await axios.get(url);
       const { accountBalanceToday } = response.data.find(({ date }) => moment().isSame(moment(date), 'day'));
       const amountYesterday = response.data.find(({ date }) => moment().isSame(moment(date).add(1, 'day'), 'day'));
       const accountBalanceYesterday = amountYesterday.accountBalanceToday;
@@ -31,7 +31,7 @@ const useAmountRequest = () => {
       });
     };
     fetchData();
-  }, []);
+  }, [url]);
   return state;
 };
 
