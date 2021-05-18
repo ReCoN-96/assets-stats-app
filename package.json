@@ -1,10 +1,6 @@
 {
   "name": "assets-app",
   "version": "0.1.0",
-  "engines": {
-    "node": "15.5.1",
-    "yarn": "1.22.5"
-  }, 
   "dependencies": {
     "@hookform/error-message": "^2.0.0",
     "@testing-library/jest-dom": "^5.11.4",
