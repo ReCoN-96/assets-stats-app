@@ -4,7 +4,8 @@ import moment from 'moment';
 import { Line } from 'react-chartjs-2';
 
 const Container = styled.div`
-  height: 10rem;
+  margin-top: 3rem;
+  height: 40rem;
 `;
 
 const PortfolioDevelopmentGraph = ({ totalAmount = [] }) => {
@@ -14,6 +15,25 @@ const PortfolioDevelopmentGraph = ({ totalAmount = [] }) => {
   const options = {
     responsive: true,
     maintainAspectRatio: false,
+    legend: {
+      display: false,
+    },
+    tooltips: {
+      displayColors: false,
+    },
+    scales: {
+      yAxes: [{
+        ticks: {
+          beginAtZero: false,
+          stepSize: 140000, // this worked as expected
+        },
+      }],
+      xAxes: [{
+        ticks: {
+          maxTicksLimit: 10,
+        },
+      }],
+    },
   };
 
   const data = {
@@ -46,7 +66,7 @@ const PortfolioDevelopmentGraph = ({ totalAmount = [] }) => {
     <Container>
       <Line
         data={data}
-        option={options}
+        options={options}
         height={350}
         width={1100}
       />
