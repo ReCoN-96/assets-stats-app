@@ -2,6 +2,29 @@ import React from 'react';
 import styled from 'styled-components';
 import moment from 'moment';
 
+const AssetRow = ({ assets }) => (
+  <ItemWrapper>
+    <Logo logo={assets?.image} />
+    <Item>{assets?.symbol}</Item>
+    <Item>{assets?.name}</Item>
+    <Item>{assets?.quantity}</Item>
+    <Item>{moment(assets?.entry_date).format('L')}</Item>
+    <Item>{assets?.buy_price}</Item>
+    <Item>
+      {assets?.current_price}
+      {' '}
+      {'$'}
+    </Item>
+    <ItemVariation>
+      {assets?.price_change_percentage_24h}
+      {' '}
+      {'%'}
+    </ItemVariation>
+  </ItemWrapper>
+);
+
+export default AssetRow;
+
 const ItemWrapper = styled.div`
   align-items: center;
   display: flex;
@@ -21,7 +44,7 @@ const Item = styled.span`
 `;
 const ItemVariation = styled.span`
   color: ${(props) => (
-    (props.children && props.children.substring(0, props.children.length - 1) * 1) < 0
+    props?.children[0] < 0
       ? 'red'
       : props.theme.colors.green
   )};
@@ -31,21 +54,8 @@ const ItemVariation = styled.span`
 `;
 const Logo = styled.div`
   background-image: url(${(props) => props.logo});
+  background-repeat: no-repeat;
   background-size: contain;
-  height: 100%;
+  height: 90%;
   width: 5rem;
 `;
-const AssetRow = ({ assets }) => (
-  <ItemWrapper>
-    <Logo logo={assets?.logo} />
-    <Item>{assets?.id}</Item>
-    <Item>{assets?.name}</Item>
-    <Item>{assets?.quantity}</Item>
-    <Item>{moment(assets?.entry_date).format('L')}</Item>
-    <Item>{assets?.buy_price}</Item>
-    <Item>{assets?.actual_price}</Item>
-    <ItemVariation>{assets?.variation}</ItemVariation>
-  </ItemWrapper>
-);
-
-export default AssetRow;

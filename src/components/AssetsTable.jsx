@@ -1,8 +1,48 @@
+/* eslint-disable react/destructuring-assignment */
+/* eslint-disable react/jsx-props-no-spreading */
+/* eslint-disable max-len */
 /* eslint-disable no-unused-vars */
-import React from 'react';
+import React, { useContext } from 'react';
 import styled from 'styled-components';
 
 import AssetRow from './AssetRow';
+import { DataContext, DataProvider } from '../contexts/DataContext';
+import { REQUEST_STATUS } from '../reducers/request';
+
+const AssetsTableComponent = () => {
+  const {
+    records: assets, status, error,
+  } = useContext(DataContext);
+
+  const isLoading = status === REQUEST_STATUS.LOADING;
+
+  return isLoading ? (<Loading />) : (
+    <AssetsContainer>
+      <ItemWrapper>
+        <Item>Symbol</Item>
+        <Item>Name</Item>
+        <Item>Quantity</Item>
+        <Item>Entry date</Item>
+        <Item>Buy price</Item>
+        <Item>Actual price</Item>
+        <Item>Variation/24h</Item>
+      </ItemWrapper>
+      {assets.map((data) => <AssetRow key={data.id} assets={data} />)}
+    </AssetsContainer>
+  );
+};
+
+const AssetsTable = (props) => (
+  <DataProvider
+    baseUrl="https://api.coingecko.com/api/v3"
+    routeName="/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false"
+    params={props.params}
+  >
+    <AssetsTableComponent {...props} />
+  </DataProvider>
+);
+
+export default AssetsTable;
 
 const AssetsContainer = styled.div`
   margin-top: 5rem;
@@ -28,19 +68,10 @@ const Item = styled.span`
   width: 10rem;
 `;
 
-const AssetsTable = ({ assets }) => (
-  <AssetsContainer>
-    <ItemWrapper>
-      <Item>Id</Item>
-      <Item>Name</Item>
-      <Item>Quantity</Item>
-      <Item>Entry date</Item>
-      <Item>Buy price</Item>
-      <Item>Actual price</Item>
-      <Item>Variation/24h</Item>
-    </ItemWrapper>
-    {assets && assets.map((data) => <AssetRow key={data.id} assets={data} />)}
-  </AssetsContainer>
-);
-
-export default AssetsTable;
+const Loading = styled.div`
+  background-image: url('https://i.gifer.com/xv.gif');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 70%;
+  width: 70%;
+`;

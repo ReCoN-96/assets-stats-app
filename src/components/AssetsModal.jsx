@@ -60,7 +60,7 @@ const ButtonClose = ({ onClick }) => (
     </svg>
   </Button>
 );
-const AssetsModal = ({ isOpen, toggleModal, setAssets }) => (
+const AssetsModal = ({ isOpen, toggleModal, setMarket }) => (
   <Modal
     ariaHideApp={false}
     onRequestClose={toggleModal}
@@ -75,7 +75,7 @@ const AssetsModal = ({ isOpen, toggleModal, setAssets }) => (
       <Title>Add an asset</Title>
       <ButtonClose onClick={toggleModal} />
     </Container>
-    <AddAsset setAssets={setAssets} />
+    <AddAsset setAssets={setMarket} />
   </Modal>
 );
 
