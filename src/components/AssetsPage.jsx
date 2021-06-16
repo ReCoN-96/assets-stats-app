@@ -3,6 +3,7 @@ import styled from 'styled-components';
 
 import AssetsTable from './AssetsTable';
 import AssetsModal from './AssetsModal';
+import AddAsset from './AddAsset';
 
 const ButtonPlus = ({ onClick }) => (
   <Button onClick={onClick}>
@@ -26,7 +27,8 @@ const AssetsPage = () => {
   const toggleModal = () => {
     setIsOpen(!isOpen);
   };
-  const [market, setMarket] = useState({ ids: 'bitcoin' });
+  const [params, setParams] = useState({});
+
   return (
     <Container>
       <PageTitle>ASSETS</PageTitle>
@@ -42,8 +44,10 @@ const AssetsPage = () => {
           portfolio balance,profit & loss during various time periods.
         </Description>
       </DescriptionContainer>
-      <AssetsTable params={market} />
-      <AssetsModal isOpen={isOpen} toggleModal={toggleModal} setMarket={setMarket} />
+      <AssetsTable params={params} />
+      <AssetsModal isOpen={isOpen} toggleModal={toggleModal} title="Add and asset">
+        <AddAsset onSubmit={setParams} />
+      </AssetsModal>
     </Container>
   );
 };

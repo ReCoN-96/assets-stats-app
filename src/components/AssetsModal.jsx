@@ -2,8 +2,6 @@ import React from 'react';
 import styled from 'styled-components';
 import ReactModal from 'react-modal';
 
-import AddAsset from './AddAsset';
-
 const Container = styled.div`
   align-items: center;
   border-bottom: solid 0.1px rgb(190, 189, 188, 0.1);
@@ -60,7 +58,9 @@ const ButtonClose = ({ onClick }) => (
     </svg>
   </Button>
 );
-const AssetsModal = ({ isOpen, toggleModal, setMarket }) => (
+const AssetsModal = ({
+  isOpen, toggleModal, children, title,
+}) => (
   <Modal
     ariaHideApp={false}
     onRequestClose={toggleModal}
@@ -72,10 +72,10 @@ const AssetsModal = ({ isOpen, toggleModal, setMarket }) => (
     }}
   >
     <Container>
-      <Title>Add an asset</Title>
+      <Title>{title}</Title>
       <ButtonClose onClick={toggleModal} />
     </Container>
-    <AddAsset setAssets={setMarket} />
+    {children}
   </Modal>
 );
 

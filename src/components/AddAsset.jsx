@@ -1,8 +1,8 @@
 import React from 'react';
 import AssetForm from './AssetForm';
 
-const AddAsset = ({ setAssets }) => (
-  <AssetForm onSubmit={setAssets} />
+const AddAsset = ({ onSubmit }) => (
+  <AssetForm onSubmit={onSubmit} />
 );
 
 export default AddAsset;

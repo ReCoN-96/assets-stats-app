@@ -6,7 +6,7 @@ import styled from 'styled-components';
 import moment from 'moment';
 import { useForm } from 'react-hook-form';
 import { ErrorMessage } from '@hookform/error-message';
-import useRequest from '../hooks/useRequest';
+import useRequest from '../hooks/useRequestWithParams';
 import { REQUEST_STATUS } from '../reducers/request';
 
 const AssetForm = (props) => {
